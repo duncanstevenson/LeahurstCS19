@@ -1,0 +1,8 @@
+#imgPath#
+c2s3p1.png
+#bigIdea#
+Functions allow programmers to break up code into manageable chunks.
+#explanation#
+If a function is simply a set of operations, why write them at all? Couldn't a program just be an endless stream of code? The answer is yes - it could. However, a significantly long program that does not use functions has the following drawbacks: it is hard to read, it is hard to debug, and it is hard to modify.
+
+Functions allow the programmer to code with a task-oriented mindset. The programmer decides what tasks the program needs to accomplish and then figures out the code for each task in isolation. When a certain task needs to be performed a second time, the programmer doesn't need to figure out the code for the task again -- it already exists, as a function! Once a function has been coded and works according to specification, the programmer then concerns themselves only with the function's input/output values.

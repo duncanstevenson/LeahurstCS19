@@ -1,0 +1,8 @@
+#imgPath#
+c3s1p8.png
+#bigIdea#
+Python has seven important math operators built-in.
+#explanation#
+Most of the math operations you'll need to do in normal programming can be achieved using a combination of brackets and the seven operators listed in the table on the left. There are ways to do more advanced math (we will see these in Chapter 5), but for now, these seven will do.
+
+The operators are mostly self explanatory. We already saw that the division operator always returns float, whereas the other four we have seen (**,+,-, and *) return integer or float depending on the operand values. There are two other very useful operators: // and %. The quotient operator // returns the INTEGER quotient of division, and the remainder operator returns the remainder of division. For example, 9//2 would return 4, and 9%2 would return 1, because 9/2 is 4 remainder 1.

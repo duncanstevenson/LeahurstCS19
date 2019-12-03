@@ -1,0 +1,10 @@
+#imgPath#
+c2s1p3.png
+#bigIdea#
+Functions take input values called arguments.
+#explanation#
+Another great feature of functions is that we can control their behaviour as programmers by feeding them input values. We call these input values arguments. 
+
+Functions can require as little as zero arguments (ie. it is possible to write functions that take no input values) and as many as is practically convenient. In the example shown on the left, the function foo requires two arguments to work correctly.
+
+The programmer sends the input arguments a and b to the function foo, and then foo does two computations that involve a and b. In computation 1, the sum of a and b is stored in a variable called z. In computation 2, the variable z is mulitplied by 3. Clearly, the value of f will depend on the argument values a and b.

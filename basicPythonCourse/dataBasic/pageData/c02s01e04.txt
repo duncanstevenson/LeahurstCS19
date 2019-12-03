@@ -1,0 +1,13 @@
+#n#2
+I'll let you interpret lines 01-04 without help.
+#n#6
+The variable n1 was passed as argument to the function abs() and the return value is stored in the variable absN1. 
+#n#7
+The variable n2 was passed as argument to the function abs() and the return value is stored in the variable absN2. 
+#n#8
+The variable n3 was passed as argument to the function abs() and the return value is stored in the variable absN3. 
+#n#9
+The variable n4 was passed as argument to the function abs() and the return value is stored in the variable absN4. 
+
+Notice in all cases, the return value of abs() is just the absolute value of the argument, regardless of whether the argument is <class 'int'> or <class 'float'>.
+#n#

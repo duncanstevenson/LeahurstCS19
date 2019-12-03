@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p6.png
+#bigIdea#
+A print statement displays a value to the computer screen.
+#explanation#
+The first program nearly every programmer writes is called "Hello World!". The "Hello World!" program has but one function: to display the text "Hello World!" somewhere on the computer screen.
+
+Writing and running the "Hello World!" program in Python is very simple, especially when the program is run using IDLE. Simply type print("Hello World") and press enter. You should see the same result as shown in the figure. What you just performed is called a print statement.
+
+It is important to type in exactly what is shown. Notice that the text "Hello World" is in quotation marks. See what happens if you try it without the quotes.

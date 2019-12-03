@@ -1,0 +1,10 @@
+#imgPath#
+c1s3p1.png
+#bigIdea#
+Data is accessed or stored in RAM when the CPU executes a read or write operation.
+#explanation#
+Earlier, we learned that binary data can be grouped into units of binary bits. In RAM, these units have something called an address. The CPU can access any given address in the same way you can send a letter when you know a home address in the real world.
+
+In the example shown on the left, the binary values 1011 are currently stored in the unit at address 4920. The CPU has just performed a read operation requesting the value at 4920. The CPU then processes this data as the integer -3.
+
+In the example shown on the right, the CPU would like to change the value at address 4920 to be the integer +7. This is called a write operation. After the operation is complete, the binary unit at address 4920 is now 0111.

@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p3.png
+#bigIdea#
+Python is a portable programming language.
+#explanation#
+There are two main categories of computer code: source code and machine code. Source code is code written in a formal language understood by human beings. Machine code is written in binary code and is what a computer's CPU understands. In order to make computers work, something needs to translate the human source code into machine code.
+
+To complicate things, each operating system (Mac OSX, Windows, Linux etc.) understands a different machine code language! 
+
+Python is generally considered a portable language, because you (usually) don't need to change the source code when running on different OS's. The python interpreter ensures that if your code works on OSX it should also work on Windows and Linux.

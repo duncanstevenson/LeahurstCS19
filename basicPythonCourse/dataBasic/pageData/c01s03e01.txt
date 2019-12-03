@@ -1,0 +1,35 @@
+#n#1
+The program hasn't started yet at this point. 
+
+Click the down arrow to move to the next line of code.
+#n#2
+The variable x has just been created. The variable x has appeared in the Symbol Name column of the symbol table. The variable x currently has the value 4.
+
+Line 01 is labeled red because it was just executed. Line 02 is labeled green because it is about to be executed. Click down again to execute line 02 of the code.
+#n#3
+The command id(x) asks Python what the current RAM ADDRESS of the variable x is. Read the value of addressX in the symbol table to see what the RAM ADDRESS of x currently is. 
+
+Note that this simulator doesn't show you the address of variables directly. This is because, as programmers, we usually don't care what the addresses are. We trust Python to keep track of this for us.
+#n#4
+The string value 'hello' has been stored in the new variable y.
+#n#5
+The address of y has been stored in the new variable addressY.
+#n#6
+The boolean value True has been stored in the new variable z.
+#n#7
+The address of z has been stored in the new variable addressZ.
+#n#8
+The variable x has been redefined with the integer value 5.
+#n#9
+As a result of redefining x with a new assignment statement on line 07, the address of x changes as well. This is why executing the command addressX = id(x) stores a new value in addressX.
+#n#10
+The variable y has been redefined with the string value 'hello there'.
+#n#11
+The address of y is different than before; this is because of the re-assignment of y on line 09.
+#n#12
+The variable z has been redefined with the boolean value False.
+#n#13
+The address of z is different than before; this is because of the re-assignment of z on line 11.
+
+#EOF is a keyword the simulator uses to indicate 'End of File'. When you are writing your own programs, this keyword SHOULD NOT be entered in Python source code without using the hashtag. It's ok (but not necessary) to comment the end of your program as #EOF, but Python will not understand EOF as a command.
+#n#

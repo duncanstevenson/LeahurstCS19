@@ -1,0 +1,27 @@
+#n#2
+The string value '10' was stored in the variable s1. Notice that the quotation marks are not shown in the symbol table. This is because the quotations are used to DEFINE the string, but are not actually part of the string itself.
+#n#3
+The string value '10.0' was stored in the variable s2.
+#n#4
+The variable s1 was passed as argument to the function type() and the return value was stored in typeS1.
+#n#5
+The variable s2 was passed as argument to the function type() and the return value was stored in typeS2. 
+
+Notice, that both s1 and s2 are <class 'str'>. Writing the decimal place inside the string '10.0' doesn't change the fact that it is a string.
+#n#6
+The variable s1 was passed as argument to the function int() and the return value was stored in n1a.
+#n#7
+The variable s1 was passed as argument to the function float() and the return value was stored in n1b.
+#n#8
+The variable s2 was passed as argument to the function float() and the return value was stored in n2.
+#n#9
+The variable n1a was passed as argument to the function type() and the return value was stored in typeN1A. Notice that n1a must be an integer.
+#n#10
+The variable n1b was passed as argument to the function type() and the return value was stored in typeN2A. Notice that n1b must be a float.
+
+Also notice, that the same string (s1='10') was converted both into an integer (n1a) and a float (n1b) using int(s1) and float(s1), respectively.
+#n#11
+The variable n2 was passed as argument to the function type() and the return value was stored in typeN2. Notice that n2 must be an float.
+
+This means that strings holding characters that represent numbers can be converted into both integers and floating point numbers, a trick that will be very handy in later sections.
+#n#

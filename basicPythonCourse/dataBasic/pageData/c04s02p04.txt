@@ -1,0 +1,8 @@
+#imgPath#
+c4s2p4.png
+#bigIdea#
+A for-loop executes a fixed number of times and changes a variable each time in a specific way.
+#explanation#
+A for loop is used whenever you know in advance exactly how many times you want to loop the code-block. The programmer chooses certain variable to loop over. Each time the loop occurs, the variable will have a DIFFERENT value chosen from a PREDETERMINED set of values.
+
+Each time the for-loop loops, a different value is set to a chosen variable. When the variable has looped once for each value predetermined, the loop ends and the code-block is no longer executed. Until all values have been sampled, however, the code-block WILL be executed each time. Let's see how the syntax works in this case.

@@ -1,0 +1,10 @@
+#imgPath#
+c1s4p5.png
+#bigIdea#
+Terminal is another way of navigating your file system on MAC.
+#explanation#
+On MAC computers, we will also take advantage of a new way of navigating the file system. The equivalent of Windows Explorer on MAC is Finder. The equivalent of Command Prompt on MAC is Terminal.
+
+To open Terminal on MAC, press COMMAND-SPACE and type in terminal. You should see the terminal app appear and press enter to open. If that doesn't work for any reason (if your settings don't allow that shortcut), in Finder, go to Applications. In Applications, go to Utilities. You'll find Terminal there.
+
+In Terminal, you can show all the folders and files in your current directory by typing ls. (ls is the MAC equivalent of dir in Windows). To change directories on MAC, it is the same command as in Windows (ie. cd)

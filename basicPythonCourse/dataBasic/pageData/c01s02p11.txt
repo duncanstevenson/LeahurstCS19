@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p11.png
+#bigIdea#
+Booleans are represented in Python as the keywords True or False.
+#explanation#
+There are only two boolean values: True and False. In Python, the keywords True or False (no quotation marks) are boolean.
+
+We will learn how to take advantage of booleans in a later section. For now, understand that ALL data values have an associated boolean value in Python. To find out what the associated boolean value of something is, you can use the command bool(). You put whatever data you want to check inside the brackets. For example, bool(0) checks what the boolean value of the integer 0 is.
+
+For integers 0 is False. For floating point numbers 0.0 is False. For strings, empty strings are False. For these kinds of data, ANY OTHER VALUE IS TRUE! Read through and understand the example shown.

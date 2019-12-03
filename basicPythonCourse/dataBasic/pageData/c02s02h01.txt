@@ -1,0 +1,12 @@
+#KU#h2
+[K1] Does the function input() have a different syntax than other functions learned thus far?
+[K2] Explain what a prompt is and how you deliver one to a user.
+[K3] What kind of data does the input() function return?
+[K4] How does the user decide when they've finished inputting their value when using input()?
+#TI#h7.5
+[T1] Navigate into your foo folder and open up the file 'brokenInput.py'. There is a bug in this program that needs fixing. Correct the code so that the program behaves as it should. Save the corrected version as a new file, with filename 'dogYears.py'.
+[T2] Write a program that asks the user to input their favourite color and then prints out that color 100 times.
+[T3] Write a programs that asks the user to enter their favourite number and then prints out the square of that number. 
+[T4] Write a program that asks the user for input twice. The first time ask the user for the number of days they stub their toes per week. The second time ask the user for the number of times they stub their toe per day. Then calculate the total number of times they stub their toe per week and display the result to screen. Make this program look nice and organized with banners and string concatenation.
+#A#h1
+[A1] Get creative. Now that you have a little flavour of user-input, write a short paragraph describing a program you'd like to write one day, and what the program would do. Who knows, maybe you'll know enough about Python to write that program soon! 

@@ -1,0 +1,8 @@
+#imgPath#
+c3s3p2.png
+#bigIdea#
+The not operator returns the opposite boolean value that it receives.
+#explanation#
+Boolean expressions can be made more effective by taking advantage of boolean operators. Just like normal operators, boolean operators operate on left and right operands. A boolean operator returns a boolean value after the operation is evaluated.
+
+The behavior of a boolean operator is described using a truth table. A truth table outlines what the operator returns depending on the values of its operands. The first operator we will study is the not operator. The not operator only acts on one operand at a time. When the  operand is False, not returns True. When the operand is True, not returns False. See the truth table for clarification of these rules. Notice that the operand x is a RIGHT operand. If x is False, not x is True. If x is true, not x is False.

@@ -1,0 +1,13 @@
+#KU#h6
+[K1] What is the difference between a while-loop and an if-statement?
+[K2] What is the difference between a while-loop and a for-loop?
+[K3] What are the three different ways you can use the range() function inside a for-statement? Explain how each method works.
+[K4] Which would be the better choice to use (a for-loop or a while-loop) if you wanted the program to make sure the user inputted a number less than 100? Why?
+#TI#h10
+[T1] Type the code found in the lessons: "The While-Loop Syntax" and "The For-Loop Syntax" into a file and run the code. Make sure you understand exactly why the program behaves as it does before moving on.
+[T2] Write a blast-off program that counts down from 1000000 using a for-loop.
+[T3] Write a program that asks the user to enter a number between 100 and 200. Make the program verify this is what the user did. If the user entered a number in the wrong range, ask the user to try again and make them keep trying until they enter a number in the correct range. Print a success message if they succeed. You may assume the user types in numbers.
+[T4] Write a program that prints all the multiples of 64 between 150 and 2048.
+[T5] Write a program that prints all the factors of 10586832.
+#A#h1.5
+[A1] Analyze the three examples found at the end of this section. Notice notes weren't given this time. Make your own notes as you did last section.

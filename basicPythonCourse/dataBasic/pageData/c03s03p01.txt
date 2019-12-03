@@ -1,0 +1,10 @@
+#imgPath#
+c3s3p1.png
+#bigIdea#
+A boolean expression returns a boolean (True or False) value.
+#explanation#
+We have seen examples of algebraic and string expressions in the previous two sections. This section is devoted to the last main type of data; that is, booleans. A boolean expression evaluates to only one of two possible values: True or False.
+
+In Python, a simple example of a boolean expression is one that has invokes the function bool(). When you feed bool() a single value, it returns the True or False value associated with the value. We learned in Chapter 1 that integer 0 is False, float 0.0 is False, and the empty string "" is False. All other values are considered True.
+
+Next, let's learn about the three basic boolean operators: not, or, and.

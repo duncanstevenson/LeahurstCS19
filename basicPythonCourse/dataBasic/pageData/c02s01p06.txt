@@ -1,0 +1,10 @@
+#imgPath#
+c2s1p6.png
+#bigIdea#
+Functions are accessed using simple syntax rules.
+#explanation#
+Syntax is a term that refers to the rules of how symbols and words should be put together in a meaningful way. In computer science, syntax refers to the rules of writing computer code.
+
+In Python, functions are expressed using a simple set of syntax rules. We will learn most of them in this chapter, and a few of them in later chapters.
+
+In the example, the function named 'len' is executed. To execute len, we simply write its name and then put circle brackets after it. The value we put inside the brackets is the function argument (and serves as the input to the function). The function will then perform operations and generate a return value, which is stored in the variable on the left hand side of the equal sign (in this case, the variable length_of_string).

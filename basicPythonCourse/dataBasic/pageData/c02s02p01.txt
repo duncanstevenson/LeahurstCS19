@@ -1,0 +1,10 @@
+#imgPath#
+c2s2p1.png
+#bigIdea#
+Interactive programs involve user input.
+#explanation#
+Up until now, the programming examples we have seen have only involved output operations. All data was created INSIDE the program itself, by the programmer; sometimes, this data was printed to the screen as output.
+
+Some programs are useful with output being the only feature (eg. a clock program); however, most useful programs require interaction with a user and thus require user input from time to time.
+
+In the example shown in the figure, the CPU running a program printed "Please enter your name: \n" to the screen. It then waited for the user to type something in and press enter. The user entered their name ("Julia Goulia") and then the CPU printed this to the screen as output immediately. Presumably, the program running in the CPU has STORED this name somewhere in RAM for future use.

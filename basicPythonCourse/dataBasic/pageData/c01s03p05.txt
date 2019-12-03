@@ -1,0 +1,8 @@
+#imgPath#
+c1s3p5.png
+#bigIdea#
+This program comes with simulated examples of Python program execution on a PC.
+#explanation#
+To help you learn key ideas and skills in Python and computer science in general, this course has a built-in code simulator. In the table of contents, any part of a section labeled 'Example' will be a code example displayed with the help of the simulator.
+
+To use the simulator, you just need to click through the program source code using the spinbox indicated in the figure on the left. Doing so will: [a] change the color of the source code (the line about to be executed is labeled as green); [b] update the symbol table after each line has been executed; [c] update the screen output after each line has been executed; [d] leave a note for you to read in the NOTES section. The notes will help you understand what is happening. Let's try out first simulated example on the next page!

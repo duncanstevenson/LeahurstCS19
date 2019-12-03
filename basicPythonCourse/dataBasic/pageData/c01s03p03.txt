@@ -1,0 +1,10 @@
+#imgPath#
+c1s3p3.png
+#bigIdea#
+Variables are created using assignment statements.
+#explanation#
+We rarely need to concern ourselves with RAM addresses as a programmer. Our programming language takes care of this for us.
+
+In the example shown, we want to store the floating point value 5.2 into a variable called x. To do this in Python, we simply write x=5.2. Behind the hood, Python actually had to assign a RAM address to x first, which was randomly chosen this time to be address 126. Python then stored 5.2 into the memory unit at address 126. Notice that assignment statements involve a SINGLE equal sign with the variable name on the left and the value on the right. (see line 2)
+
+Next, the source code asked that x be printed to the screen. Since Python keeps track of a symbol table for us, it knows that the data that should be printed is found at address 126, and 5.2 will be printed.

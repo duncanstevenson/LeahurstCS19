@@ -1,0 +1,10 @@
+#imgPath#
+c2s3p2.png
+#bigIdea#
+Functions are defined using precise syntax rules.
+#explanation#
+To define a function, we always start with the keyword 'def'. The def statement begins with this keyword and tells Python we are about to define a function. In the example, a function named foo was defined. After the function name is defined a parameter list is included. The parameter list opens and closes with circle brackets and has comma separated parameter names inside. Finally, the def statement terminates with a colon.
+
+After the def statement the function computations are written. Function computations MUST be indented with respect to the def statement. The standard in Python is 4 spaces per indent. The tab key will do this automatically for you in a good text editor like Sublime. 
+
+Finally, the last statement of a function definition is the return statement. Lets learn what all this does.

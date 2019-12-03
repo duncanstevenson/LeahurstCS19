@@ -1,0 +1,10 @@
+#imgPath#
+c1s3p7.png
+#bigIdea#
+Users of programs don't see the symbol table, they see the screen.
+#explanation#
+Programmers don't need the users of their program to understand everthing inside the program. They want their program to be an easy to use and effective tool for the user. For that reason, the programmer will typically keep track of a lot more data than the user will.
+
+The programmer will know everything that was created and entered into the Python symbol table, whereas, the user only sees what the programmer wants them to. For now, the only way we know how to show things to the user is by printing information to the screen.
+
+In the example shown, even though three variables were created and assigned to RAM addresses, the user only saw the value of z, "you're quite welcome."

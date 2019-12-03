@@ -1,0 +1,8 @@
+#imgPath#
+c3s1p2.png
+#bigIdea#
+An operator returns a value that depends on the type(s) and value(s) of the input(s).
+#explanation#
+When operands are joined with an operator, what happens next depends on the type of each operand and the value of each operand.
+
+For example, the + operator does not always behave the same way. When the operands are both integers, then the + operator will choose the operation of arithmetic addition. In the example, 2+3 will return the integer 5. However, when the SAME operator (+) is used with operands that are strings, the operation defined changes. In the case of string operands, the + operator computes the string concatenation of the operands. In the example shown, 'hi' + ' there' returns the string 'hi there'. Lastly, the + operator returns an error message when one of the operands is a string and the other is an integer; ie. that pairing of operands is not allowed by the operator.

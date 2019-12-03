@@ -1,0 +1,8 @@
+#imgPath#
+c3s1p1.png
+#bigIdea#
+An operator takes operands as input.
+#explanation#
+This chapter is about how to store, process, input and output data. This will be one of the most theoretical chapters, but the skills and knowledge learned here will be extremely beneficial to your programming development. You will quickly see the use of these ideas in Chapter 4, and thus, it is very worthwhile to take this material seriously and to spend time making sure you understand it all.
+
+The most basic way that we can process data is by using something called an operator. An operator is a symbol or a keyword that takes something called an operand as an input. In the example shown, the + operator is sandwiched in between the values 2 and 3. We call the value on the left of the operator the left operand, and the value on the right of the operator the right operand.

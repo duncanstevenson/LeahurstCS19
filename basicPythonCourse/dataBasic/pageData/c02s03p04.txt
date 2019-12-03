@@ -1,0 +1,8 @@
+#imgPath#
+c2s3p4.png
+#bigIdea#
+Function calls cause the program to JUMP from one line to another.
+#explanation#
+We are now ready to put together the concepts of a function call and a function definition.
+
+Study the figure on the left. Programs always flow from top to bottom, unless a line of code instructs us to do otherwise. We start at line 1 and Python notices a def statement, logs the function 'foo' as occupying lines 1-3, and then skips to the next line of code (line 5). Line 5 is a simple assignment statement. In line 6, a function call happens. This sends the argument 'fruit' to the 'foo' function parameter 'word'. Next, the computations of 'foo' happen and then the return value is sent as output back to the caller (ie. the return value 'L' gets copied into the variable 'lenFruit'). Notice the program pathway between steps indicated with asterix (*) and (**): we start and end at line 6!

@@ -1,0 +1,8 @@
+#imgPath#
+c3s2p2.png
+#bigIdea#
+Operator precedence in Python does not depend on the class of operand data.
+#explanation#
+In the previous section we learned that operators have precedence rules similar to BEDMAS. We also learned that the same operator can have different function depending on the type (a.k.a. class) of operand data. Does the class of data affect operator precedence?
+
+Turns out, no. See the example on the left. In the first expression, 1+2*3 returned 7. This is because mulitplication has higher precedence than addition, and so 2*3 was evaluted to 6 first, and then 6 was added to the value 1. In the next expression, the same math is coded, except that the integers 1 and 2 were replaced with the strings '1' and '2'. Notice the result is '1222'. This indicates that '2'*3 was performed first (returning '222') and that this value was concatenated with the string '1'. Thus, + and * have the same precedence for integer operands AND for string operands.

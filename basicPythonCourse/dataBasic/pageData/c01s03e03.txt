@@ -1,0 +1,15 @@
+#n#1
+This is the last time I'll tell you what to do on line 01 of a program. From now on, you may see empty boxes in the notes section. If this is the case, click through anyways, and notes will appear when I want to draw your attention to something. Otherwise, it's your job to make sense of the results. Ask the teacher questions if you need to!
+
+Click down to start moving through the program.
+#n#2
+The string 'hello there' is assigned to the variable x. The user will not see this happen.
+#n#3
+The string "say it ain't so" is assigned to the variable y. The user will not see this happen.
+#n#4
+The string "you're quite welcome" is assigned to the variable z. The user will not see this happen.
+#n#5
+The value stored in the RAM address that z is pointing to is printed to the screen. Thus, the user sees only the text "you're quite welcome".
+
+Notice that even though z was printed, the symbol name is not printed when this happens. The user will have no idea that the symbol names x, y, or z were even part of the program!
+#n#

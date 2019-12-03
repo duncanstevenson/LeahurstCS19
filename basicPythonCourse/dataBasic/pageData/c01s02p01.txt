@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p1.png
+#bigIdea#
+A computer program is a set of instructions that performs a specific task on a computer.
+#explanation#
+In this course, you will do a lot of coding. What does that mean? Well, it simply means you will learn how to give a computer specific instructions to make it do what you want it to.
+
+Shown in the figure is a segment of code that is part of the program running this app! Notice that the instructions are not easy to understand.. yet. You will slowly learn a new language in this course, and if you study and practice, you'll be able to write a program like this one day. 
+
+Programs can: read, interpret, and save data, interact with a user, display information on the screen, play sounds through speakers, etc.

@@ -1,0 +1,10 @@
+#imgPath#
+c1s1p8.png
+#bigIdea#
+Characters are symbols that represent the basic parts of written language.
+#explanation#
+Computers wouldn't be as useful as they are today if they only could interpret binary data as different kinds of numbers. We'd also like them to be able to represent parts of human language. The simplest part of human written language is a single character.
+
+When interpreting binary data as a character, the CPU first interprets the binary data as an integer. It then looks up the value of this integer in an ASCII table. In the example shown the integer 63 corresponds to the character '?'.
+
+The original ASCII table only allowed for 128 characters. Modern computing requires many more characters. The standard table used today is called Unicode, which is an extension of the original ASCII table.

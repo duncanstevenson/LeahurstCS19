@@ -1,0 +1,8 @@
+#KU#
+K1. Explain, in your own words, the difference between data and information.
+
+K2. What is a computer program and how does it work with data?
+#TI#
+T1. Rewrite a simple sentence using an ASCII table to convert symbols to numbers.
+#A#
+A1. Make your own information! Make a symbol table and a set of rules that let you convert your meaningless data (symbols) into information (sequence of symbols).

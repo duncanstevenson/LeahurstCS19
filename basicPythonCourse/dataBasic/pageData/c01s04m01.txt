@@ -1,0 +1,6 @@
+#text#
+Write your first interesting program from scratch! 
+
+Your program should be written using the Sublime Text Editor and run from the command line. Ask your teacher for help in setting up a good workflow if you are still a bit confused. After asking enough times, you'll be able to do it on your own, so don't be shy!
+
+The goal of your program is to define a number in a variable called speed. Then, perform a math operation on speed and store the result of this operation in a new variable called something of your choice. Then, using a series of print statements, make the output similar to that shown in the previous page. 

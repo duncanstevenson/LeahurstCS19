@@ -1,0 +1,6 @@
+#text#
+Write a Restaurant Bill Program! 
+
+First, copy and paste your finished banner() function inside banners.py into a new file called 'bill_v1.py' and save this in projects. 
+
+After printing a title banner, your program should prompt the user for input several times. Please ask them: the name of a beverage, the cost of a beverage in dollars (assume cents are allowed), the name of a meal, the cost of a meal, the name of a dessert, the cost of a dessert, and the meal tax percentage of their province. The program should contain the following functions: banner(), subtotal(), total(), and printBill(). The function subtotal() should receive all the cost data and return a subtotal cost. The function total() should receive the subtotal and the tax percentage and return the total cost. The printBill() function should organize all the relevant data and print it nicely to the screen. Last, use the banner function again at the bottom of the program. You need to decide what parameters to define for each function. Have fun and ask for help if needed! :)

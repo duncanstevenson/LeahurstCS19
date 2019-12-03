@@ -1,0 +1,8 @@
+#imgPath#
+c3s2p1.png
+#bigIdea#
+String concatenation and string multiplication are basic string operations.
+#explanation#
+We have already learned two basic ways of manipulating string data: string concatenation and string multiplication. String concatenation is achieved using the + operator and results in joining the left and right string operands into a single string. String multiplication is achieved using the * operator and results in repeating the left operand string by the integer right operand.
+
+See the examples on the left. In the first statement, the string 'hi there foo' is printed to the screen by concatenating the three strings 'hi', ' there', and ' foo'. Notice two + operators were needed. In the second example, 'hi' was printed 10 times to the screen by taking advantage of string multiplication. Since the escape character '\n' was included in the original string, each 'hi' appears on a new line.

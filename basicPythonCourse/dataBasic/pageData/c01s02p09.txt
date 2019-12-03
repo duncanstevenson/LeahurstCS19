@@ -1,0 +1,8 @@
+#imgPath#
+c1s2p9.png
+#bigIdea#
+Floating point numbers are entered in Python as numbers with a decimal point.
+#explanation#
+Floating point numbers are also simple to define in Python. You need to ensure the number has a decimal point for it to be floating point, even if the fractional part is zero (ie. 2 is integer, whereas 2.0 is floating point). The same mathematical symbols that work on integers work also on floating point numbers.
+
+Analyze the example shown and make sure you understand each line before continuing. Notice that as long as one number in the operation is floating point, so is the result. In the example shown, all answers have decimal points even though some integers were involved in the calculations (ie. -2*16.0 = -32.0).

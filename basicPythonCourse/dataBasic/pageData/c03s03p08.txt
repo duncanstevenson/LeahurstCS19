@@ -1,0 +1,10 @@
+#imgPath#
+c3s3p8.png
+#bigIdea#
+Comparison operators have higher precedence than boolean operators.
+#explanation#
+Often, we will want to combine comparison operators with boolean operators inside the same boolean expression. It is helpful to understand that comparison operations ALWAYS have higher precedence than boolean operators (unless brackets are used of course).
+
+In the example shown, the comparisons happen first. So 1==2 evaluates to False, and 2==2 evaluates to True BEFORE the or operator is used. The steps of the expression are shown in the figure. 
+
+I actually skipped a step. Can you figure out which step I skipped?

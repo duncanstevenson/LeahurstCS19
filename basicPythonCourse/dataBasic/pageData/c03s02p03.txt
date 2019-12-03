@@ -1,0 +1,8 @@
+#imgPath#
+c3s2p3.png
+#bigIdea#
+Characters in strings can be extracted using the slice operator.
+#explanation#
+Often we want to do something a little more fancy with strings: we want to chop them up and use only some of the characters within them. This can be achieved using an operator called the slice operator. 
+
+Strings are just arrays of characters. For example, the string 'hello world' is just an array of 11 characters 'h'+'e'+'l'+'l'+'o'+' '+'w'+'o'+'r'+'l'+'d'. Each character in a string is assigned an INDEX. The first index is always 0. So, in 'hello world', the character at index 0 is 'h' and the character at index 10 is 'd'. When we want to access a single character of a string, we slice it using square brackets and an integer representing the index we are interested in. So, 'dud'[0] returns 'd', whereas 'dud'[1] returns 'u'. In the example shown, how can we slice the last letter?

@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p10.png
+#bigIdea#
+Strings are entered in Python as text in between quotation marks.
+#explanation#
+Strings can be defined in Python in two ways: using single quotes OR double quotes (but not both). If you define a string using double quotes, single quotes can be used within the string itself (and vice versa). You can force a string to jump to the next line using the escape character '\n'.
+
+Numbers defined inside strings are not treated as numbers, instead, they are treated as characters. Notice in the example shown what happens when the + symbol and the * symbol are used on strings containing numbers. The + symbol joins the strings together, and so, '1'+'2' = '12' (not '3'). The * symbol repeats a given string, so '12'*3 = '121212', not '36'.
+
+Make sure you understand all the lines of code in the example shown before continuing.

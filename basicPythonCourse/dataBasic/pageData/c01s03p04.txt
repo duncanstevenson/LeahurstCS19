@@ -1,0 +1,8 @@
+#imgPath#
+c1s3p4.png
+#bigIdea#
+Variable values are modified using assignment statements.
+#explanation#
+Often we will need to change a variable to a new value during the course of a given program. This is accomplished once again using an assignment statement.
+
+In the example shown, on line 2, we begin by assigning the value 5.2 to the variable x. Behind the hood, Python chose address 641 for x and stored 5.2 there. On line 4, we REDEFINED x by assigning it the string value 'hello'. Python does not keep the original RAM address. Instead, it randomly chose a new address (372) and stored 'hello' at address 372. When the print statement is executed on line 6, it will be the most recent version of x that gets printed, and so 'hello' will be printed to the screen. For this reason, we have to be careful with assignment statements. After code line 4, it becomes impossible to access the data at address 641.

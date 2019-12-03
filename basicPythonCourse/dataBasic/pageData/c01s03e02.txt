@@ -1,0 +1,17 @@
+#n#1
+Remember, line 01 hasn't been executed yet (it's green) and so nothing is in our symbol table.
+
+Click the down arrow to see what happens when line 01 is executed.
+#n#2
+The variable x has just been created and assigned an integer value of +4.
+#n#3
+The variable addressX has just been created and was assigned a value corresponding to the RAM address of x.
+#n#4
+The variable y has just been created and is pointing to the same RAM address that x is pointing to. As a result, x and y have the same value.
+#n#5
+The variable addressY has just been created and was assigned a value corresponding to the RAM address of y. Notice that addressX and addressY currently have the same value, since x and y point to the same RAM address.
+#n#6
+The variable x is re-assigned to a new value (+6).
+#n#7 
+The address of X is no longer the same as y. Notice that addressX has a new value now.
+#n#

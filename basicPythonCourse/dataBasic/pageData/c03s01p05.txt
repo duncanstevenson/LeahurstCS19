@@ -1,0 +1,8 @@
+#imgPath#
+c3s1p5.png
+#bigIdea#
+A statement is a unit of code that has an effect on the computer.
+#explanation#
+Expressions, in and of themselves, are not useful. They may involve many computations, but no matter how long or complex they are, the work the CPU does to process them would be of little value if we weren't able to USE the expression return value somehow.
+
+The way we take advantage of the return value of an expression is by writing units of code called STATEMENTS. A statement does something; it either stores/modifies something in RAM, outputs something to the screen, or asks the user for input (or a combination of all three). We store things in RAM using assignment statements. We display information to the screen using print statements. We interact with the user via input statements. Notice, that statements USE expressions. In the example on line 2, the expression we discussed previously is assigned to the variable x.

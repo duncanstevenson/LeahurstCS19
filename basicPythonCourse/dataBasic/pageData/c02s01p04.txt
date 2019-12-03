@@ -1,0 +1,10 @@
+#imgPath#
+c2s1p4.png
+#bigIdea#
+Functions in Python finish by outputting something called a return value.
+#explanation#
+The last computation in a function is called a return computation. In a return computation, the function sends some value (a single data value) out of the function back to the programmer. The value sent back as output is called a return value.
+
+In the example shown, once again, arguments a and b are sent to the function foo. Inside foo, z is calculated as the sum a+b, f is defined to be 3*z, and then in computation 3, the value f is sent back as the return value.
+
+As a concrete example, if the arguments (a,b) equalled (2,3), then z = 2+3 = 5, f = 3*z = 3*5 = 15, and so 15 would be output as the return value. Make sure you understand this before moving on.

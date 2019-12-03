@@ -1,0 +1,10 @@
+#imgPath#
+c2s1p5.png
+#bigIdea#
+Functions can generate side-effects that occur when the function is executed. 
+#explanation#
+The main purpose of a function is usually to generate and return a value. 
+
+Sometimes functions have additional behaviours called side-effects. A side-effect has nothing to do with a return value; instead, it has something to do with the state of the program or the computer. Examples of side-effects include: printing things to screen and writing or modifying files.
+
+In the example shown on the left, computation 3 prints 'hi' to the screen everytime foo is executed. So, the return value of foo is the value contained in f, and the side-effect of foo is that 'hi' is printed a single time to the screen. We will learn other examples of side-effects as the course progresses.

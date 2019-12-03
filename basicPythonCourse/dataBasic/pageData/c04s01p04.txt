@@ -1,0 +1,8 @@
+#imgPath#
+c4s1p4.png
+#bigIdea#
+The code-block that belongs to an if-statement is grouped via consistent indentation.
+#explanation#
+The syntax rule of an if-statement follows strict syntax. To begin an if-statement, simply type the keyword 'if'. Next, type a condition. After the condition type a colon. On the next line of code, indent. The code block will continue as long as you indent. Once you stop indenting, the code-block will end and the code that follows will not belong to the if-statement. Make sure you indent by the same amount on each line or else a syntax error will occur.
+
+In the example shown, the condition coded was x>y. How does this program work? If the value in x is larger than the value stored in y, the condition is True and therefore lines 2-5 will be executed before lines 6-8. If x<=y, however, then the condition is False and Python will skip lines 2-5 and jump immediately to line 6.

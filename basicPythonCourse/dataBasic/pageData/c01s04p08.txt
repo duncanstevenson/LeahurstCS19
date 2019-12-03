@@ -1,0 +1,12 @@
+#imgPath#
+c1s4p8.png
+#bigIdea#
+Here is the program you will write for your first mini project.
+#explanation#
+You're now ready to write your first program that actually does something.
+
+First, create a folder in your FORAS folder called Projects. Next in Sublime Text, create a new file called unitConversion.py and save this file in your Projects folder.
+
+Your goal is to write code that converts a speed in kilometers per hour into meters per second. At the beginning of the program, define a variable called speed and set it to some value. Next, figure out the math that converts this speed to meters per second. 
+
+The rest of the project description is found in the next page.

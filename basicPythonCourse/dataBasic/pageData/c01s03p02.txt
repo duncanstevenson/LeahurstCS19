@@ -1,0 +1,8 @@
+#imgPath#
+c1s3p2.png
+#bigIdea#
+Accessing RAM addresses as a programmer is facilitated by using a symbol table.
+#explanation#
+Instead of having to remember RAM addresses as programmers, programming languages give us a very handy tool called a symbol table. Whenever we want to store data, we first decide what we want to call this data. The name we choose is called a variable or object name. Python then decides FOR us which RAM address the data will be stored in, and keeps track of which names correspond to which addresses in the symbol table.
+
+In the example, the variable x is the programmer's name for the data stored at address 10123, which currently has an integer value of +143. The variable y is connected to address 324559 which is currently holding the floating point number -16.24. Make sure you understand the example before continuing.

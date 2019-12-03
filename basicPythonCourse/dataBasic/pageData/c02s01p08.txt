@@ -1,0 +1,8 @@
+#imgPath#
+c2s1p8.png
+#bigIdea#
+Python comes with certain functions built-in.
+#explanation#
+Most of the time we have to code our own functions. However, there are many functions already included in something called the Python Standard Library that we have access to as programmers. Some of these functions are built into Python right from the get-go for our easy access. In this lesson we will discuss five of the built-in functions we will use regularly in this course.
+
+The str() function takes an integer or floating point argument and converts it into a string (ie. the return value of str(n) is the string representation of n). The int() function converts a string to an integer, the float() function converts a string to a floating-point number, the len() function measures the number of characters in a string, and the abs() function finds the absolute value of a number. We will see examples of all five of these functions next.

@@ -1,0 +1,8 @@
+#imgPath#
+c4s2p2.png
+#bigIdea#
+A while-loop executes until the condition becomes False.
+#explanation#
+The first type of loop we will study is called a while-loop. A while-loop has almost the same logic as an if-statement. It begins by testing a certain condition. When the condition is False, the while-loop skips the relevant code-block. When it is True, it executes the code block. However, rather than continuing on the program after executing the code-block, a while-loop jumps back to the condition and tests it again. Thus, the while-loop will stay in a LOOP, whenever the condition is True.
+
+We have to be careful when using this type of loop. If we don't have the ability to eventually change a True condition to a False condition, the program will never end! A program that executes an infinite loop can crash the computer or make it run slow. Don't worry though, I will teach you a trick in case you accidentally do this.

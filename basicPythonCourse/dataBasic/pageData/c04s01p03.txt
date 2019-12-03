@@ -1,0 +1,8 @@
+#imgPath#
+c4s1p3.png
+#bigIdea#
+An if-statement executes a code block when a condition is True.
+#explanation#
+The simplest type of branching is called an if-statement. The functionality of an if-statement is simple: IF the condition is True, execute a certain block of code; IF the condition is False, skip this block of code and continue on with the rest of the program.
+
+An if-statement is used whenever you want something to happen under a certain condition (and when you want nothing special to happen should the condition be False). For example, lets say you have just asked the user to enter their age and you plan on converting it into dog years, no matter what they type. However, should they type in YOUR age, you might print "Hey, that's my age too!". The user will get their age in dog years no matter what, but will get the special message only when their age matches the age of the programmer.

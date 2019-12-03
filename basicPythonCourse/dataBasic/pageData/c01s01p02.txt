@@ -1,0 +1,8 @@
+#imgPath#
+c1s1p2.png
+#bigIdea#
+Data by itself is not useful or meaningful. It must be processed into information before it can be used or understood.
+#explanation#
+Data by itself is just simple facts. Data comes in many forms but often is found as numbers, symbols, words and pictures. For example, if you measure your height with a ruler and then write down the number in a log book, that number is data.
+
+Information, on the other hand, requires context. In the previous example of your height, the height data is not meaningful by itself. However, if you also wrote down something indicating your name and what was measured (eg. Clara's height = 175 cm) then it becomes information. Processing is required to connect the measurement data to information about Clara.

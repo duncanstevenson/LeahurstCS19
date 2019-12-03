@@ -1,0 +1,8 @@
+#imgPath#
+c1s2p8.png
+#bigIdea#
+Integers are entered in Python as numbers without decimal points.
+#explanation#
+Integers are entered in Python as you would expect. Just type in the number you're interested in printing, and it will appear. You can also perform mathematical operations on integers. The '+' symbol adds two numbers together, the '-' symbol subtracts two numbers, the '*' symbol multiplies two numbers, the '/' symbol divides two numbers, and the '**' symbol raises one number to the power of another.
+
+Analyze the example shown and make sure you understand each line before continuing. Notice that when math operations are done on integers the result is also an integer, except when the operation is division (the result of division is always a floating point number).

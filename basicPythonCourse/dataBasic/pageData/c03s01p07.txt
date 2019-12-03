@@ -1,0 +1,8 @@
+#imgPath#
+c3s1p7.png
+#bigIdea#
+Python applies left-precedent BEDMAS to algebraic operations.
+#explanation#
+Python uses BEDMAS in the same way you learned in math class. (B)rackets have the highest precedence, (E)xponents the second highest, (D)ivision and (M)ultiplication the third highest, and (A)ddition and (S)ubtraction the least. Whenever two operations appear in the same expression with equal precedence (eg. multiplication and division), the CPU always handles the one on the LEFT first.
+
+Thus, in the example, the brackets were handled first, then the exponent operator (**). Next, since division appeared further left than multiplication, 4/2 was computed and the return value was a float since that is the rule for the division operator. Next the multiplication was performed, followed by the subtraction and finally the addition. If it weren't for the division operator, the answer would have been integer.

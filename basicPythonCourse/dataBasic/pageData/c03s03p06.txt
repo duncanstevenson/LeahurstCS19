@@ -1,0 +1,8 @@
+#imgPath#
+c3s3p6.png
+#bigIdea#
+A comparison operator compares two values together and returns a boolean.
+#explanation#
+The boolean operators not, and, or are typically used together with boolean operands. For example, the expression "True and False" involes two boolean operands (True and False) and returns a boolean value (False). The boolean operators get a little confusing when the operands are not boolean data, and so in this course we'll ONLY use these operators with boolean operands.
+
+When we want to use non-boolean data to generate a boolean value, we will use a different set of operators called comparison operators. Comparison operators take operands that can be various kinds of data. They do some kind of COMPARISON on the operands, and then return a True or False value. Thus, comparison operators are used within boolean expressions, even though they operate on non-boolean operands. 

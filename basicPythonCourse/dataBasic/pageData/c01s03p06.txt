@@ -1,0 +1,10 @@
+#imgPath#
+c1s3p6.png
+#bigIdea#
+New variables can be assigned by referencing values or by referencing existing variables.
+#explanation#
+Often, we assign values directly to variables. In the example on the left, in the first line, the integer value +5 is assigned to the variable x.
+
+Sometimes, however, we want to assign to one variable the value stored in a different variable. Let's say we want a new variable y to hold the same value as that currently stored in x. Line 2 of the example on the left achieves this goal. By writing y=x, we point the variable y to the SAME RAM ADDRESS as the variable x. Both variables are now pointing to address 31, which currently stores the value 5.
+
+If we redefine x later on, it's no biggie. After line 3 of the example, y is still pointing to address 31 (value 5), but x is now pointing to a different address and value (82 and 2, respectively).

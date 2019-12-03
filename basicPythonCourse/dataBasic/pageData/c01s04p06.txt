@@ -1,0 +1,10 @@
+#imgPath#
+c1s4p6.png
+#bigIdea#
+You can run python programs in Command Prompt and Terminal.
+#explanation#
+Now that you know how to navigate the file system in Command Prompt and Terminal, you are ready to run your helloWorld.py program.
+
+First, NAVIAGATE TO THE CORRECT FOLDER. This is very important. To run python program stored in a file, you first have to find the file. You saved the helloWorld.py program in your FORAS/Homework folder, so use a series of cd commands to move there.
+
+Once you're in the right folder, you type the command: py -3 filename.py to run the program in CMD; on MAC, type the command python3 filename.py. You should see something similar to the figure if you did things correctly. If you weren't able to run the helloWorld.py program, talk to your teacher before moving on.

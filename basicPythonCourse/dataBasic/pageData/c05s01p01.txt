@@ -1,0 +1,10 @@
+#imgPath#
+c5s1p1.png
+#bigIdea#
+Objects can be a variable, function, method or a data structure.
+#explanation#
+Functions are objects but objects are not always functions.
+An analogy that we can use is:
+If a car is our object then its properties (in computer science called fields/attributes) would be its colour, speed, model, etc. And its actions (called methods in computer science) can be turning headlights on and off, turning, speeding up and slowing down, etc.
+
+In the image on the left, you can see the two examples of objects, the first is the variable x, and the second is the car we previously mentioned.

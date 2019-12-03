@@ -1,0 +1,8 @@
+#imgPath#
+c4s1p5.png
+#bigIdea#
+An if-else statement allows the computer to choose between two code-blocks based on a single condition.
+#explanation#
+Although an if-statement is very useful, sometimes it does not provide enough functionality. Sometimes, instead of desiring that the program SKIP the code-block when a condition is False, you would prefer that a DIFFERENT code-block be executed instead. If this is the programming need, then an if-else statement is the right choice. An if-else statement executes a certain code block when the condition is True, and a different code block when the condition is False.
+
+Returning to our last example of dog years, let's say that this time, we want to output a special message to the user no matter what their age is. Perhaps if they have the same age as the programmer, the program will print "Hey, that's my age too!". If this isn't the case, the program will instead print "That's a pretty cool age foo."

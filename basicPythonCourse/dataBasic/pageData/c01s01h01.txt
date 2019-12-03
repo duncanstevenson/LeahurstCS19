@@ -1,0 +1,11 @@
+#KU#h3
+[K1] Explain, in your own words, the difference between data and information.
+[K2] What is computer data? What is a bit? What is a unit of memory?
+[K3] How does a human being differentiate between booleans, integers, floating point numbers, characters and strings? Hint: Read the big ideas!
+#TI#h7
+[T1] Using the integer representation explained in this section, what is the integer value associated with the binary numbers 00000, 01100 and 11001? What would the same binary numbers become if we instead intepret them as boolean?
+[T2] Using the integer representation explained in this section, deduce the binary data units that would generate the integers: +6, +12, +14, -16, -29 and -31. Your binary data unit must contain a total of 6 bits.
+[T3] What do you think the significance of the term 'floating point' is in the context of floating point numbers?
+[T4] What is the sequence of integers that produces the string "Hello World!"? You will need to google an ASCII table to figure this out.
+#A#h1.5
+[A1] Uncode the following message by shifting the ASCII indices of the characters by two values lower. For example, the letter 'c' has ASCII value 99, and should be shifted by 2 lower, making the number 97. The ASCII value of 97 is 'a'. So, 'c' becomes 'a'. DECODE: TQHNeqrvgtu"ctg"pqv"c"uchg"yc{"vq"vtcxgn#

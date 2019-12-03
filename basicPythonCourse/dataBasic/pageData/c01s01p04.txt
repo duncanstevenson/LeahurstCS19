@@ -1,0 +1,8 @@
+#imgPath#
+c1s1p4.png
+#bigIdea#
+A boolean value can be either True or False.
+#explanation#
+The simplest way that computer data can represent information is by interpreting the data stored in memory as boolean values. A boolean value is simply a value representing either True or False. By convention, 0 is interpreted as representing False, whereas 1 is interpreted as representing True.
+
+Bits are not ALWAYS interpreted as booleans. To make an analogy, consider the string of letters 'raisin'. If we interpret this sequence of characters to be an English word, then we must pronounce it phonetically as 'rays in'. If however, we assume it to be a French word, the pronunciation becomes quite different. When will a bit or bits be considered boolean? When we decide to interpret it that way! 

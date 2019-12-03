@@ -1,0 +1,8 @@
+#text#
+Complete the Expressions Worksheet!
+
+This chapter's project is a little dry, but very important. It will train your mind to think about expressions properly, a very important skill. With it, you'll be writing really fun programs by the end of the next chapter.
+
+There is a worksheet located in your foo folder. Please complete this worksheet by analyzing each expression, step-by-step, until you arrive at a return value. You can either type up your answers or write them by hand. Please ensure you get the correct return value! (The answers are listed in bold font right after the questions). Don't use IDLE for this, reason out each step by UNDERSTANDING the operators. Google a Python operator precedence table to make sure you do the operations in the correct order. 
+
+You will be graded on a conversation that addresses your completed work in a one-on-one setting. Make sure you do the work yourself (don't copy) to make sure you do well on this conversation. There is an example given at the top of the worksheet to help you get started.

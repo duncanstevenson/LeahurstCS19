@@ -1,0 +1,10 @@
+#imgPath#
+c1s1p9.png
+#bigIdea#
+Strings are sequences of characters.
+#explanation#
+Now that we understand how to represent a single character, representing words and sentences becomes a simple exercise of repetition.
+
+In the example shown in the figure, the word 'hi' is created by joining together the characters 'h' and 'i'. To do this, two units of binary data are needed. The first unit represents the integer 104 which the CPU knows has a character representation of the letter 'h' according to the ASCII table. The second unit represent the integer 105 which has an ASCII character value of 'i'.
+
+Once each binary unit has been represented as a character, the string is created by joining each individual character together in the order requested.

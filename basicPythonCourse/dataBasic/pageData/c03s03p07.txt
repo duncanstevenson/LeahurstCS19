@@ -1,0 +1,10 @@
+#imgPath#
+c3s3p7.png
+#bigIdea#
+There are six different ways to perform a comparison operation.
+#explanation#
+Comparisons are VERY useful in computer science. We will do them often. Until we learn WHY they are important, we need to understand HOW they work.
+
+The table on the left summarizes the six comparison operators. The first, called the equality operator, checks if two values are equivalent. For example, 1==1 would return True, whereas 1==2 would return False. Be careful not to confuse equality comparison (==) with assignment (=). Equality comparison always involves two equal signs, whereas assignment involves only one. Also, make sure you understand the difference between equality comparison (==) and inequality comparison (!=). They basically have the opposite functionality.
+
+Make sure you understand all six operators before moving on.

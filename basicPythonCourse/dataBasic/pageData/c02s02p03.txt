@@ -1,0 +1,10 @@
+#imgPath#
+c2s2p3.png
+#bigIdea#
+The return value of the input() function is always a string.
+#explanation#
+Sometimes, as a programmer, you will want the user to define something as a string, and at other times, you will want them to define something as a number. 
+
+The input function, regardless of your programming goal, will ALWAYS return the input of the user as a string. In the example shown, the user -- after being prompted for their age -- typed in 17 and pressed enter. Python will return a value of "17" (a string) from the function and store it in the variable age.
+
+Thus, if the programmer wants to interpret age as an integer, they must add extra code to convert age from <class 'str'> to <class 'int'>. This is not a complicated thing to do, but it often a reason for bugs appearing in a program.

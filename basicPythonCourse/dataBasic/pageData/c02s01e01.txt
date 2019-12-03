@@ -1,0 +1,27 @@
+#n#2
+The integer value 10 was stored in variable n1.
+#n#3
+The floating point value 10.0 was stored in variable n2.
+#n#4
+The built-in function type(arg) returns the type (aka class) of data stored in arg. Here, we passed the argument n1 to the function type() and the return value was stored in typeN1. Looking at the symbol table, we see that typeN1 is holding <class 'int'>. This tells us that n1 is of class 'int', short for 'integer', so the type of n1 must be integer! (As we would expect).
+#n#5
+Here, n2 was just passed as argument to the function type() and the return value was stored in variable typeN2. We see that n2 is holding a floating point value since the value in typeN2 is <class 'float'>.
+#n#6
+At this step, n1 was just passed as argument to the function str() and the return value was stored in the variable s1. Notice that the value of s1 looks identical to n1 in our symbol table.
+#n#7
+At this step, n2 was just passed as argument to the function str() and the return value was stored in the variable s2. Notice that the value of s2 looks identical to n2 in our symbol table.
+#n#8
+Here, s1 was just passed as argument to the function type() and the return value was stored in the variable typeS1. Notice that our symbol table indicates that s1 is a variable of class 'str', short for 'string'. 
+
+Thus s1 and n1 are NOT the same kind of data (s1 is str, n1 is int). Be careful how you interpret the values of variables printed to screen or displayed in the symbol table. Strings sometimes look like numbers!
+#n#9
+Here, s2 was just passed as argument to the function type() and the return value was stored in the variable typeS2. Notice that our symbol table indicates that s2 is a variable of class 'str'.
+
+Thus we have learned that both integers and floats can be converted to strings using str().
+#n#10
+Here, the string "n1 has value 10" was printed to the screen. Notice that the code executed on line 09 concatenated the string "n1 has value " with the variable s1. Since s1 is holding the string "10", the concatenation is allowed. However, it would have produced an error to try and concatenate the string "n1 has value " with the variable n1. Can you guess why?
+
+Thus, the function str() is a very handy way combining messages with numbers!
+#n#11
+Here, just like in the previous line, string concatenation and the str() function were taken advantage of to printe "n2 has value 10.0" to the screen.
+#n#

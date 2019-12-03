@@ -1,0 +1,8 @@
+#imgPath#
+c3s3p5.png
+#bigIdea#
+The order of precedence of boolean operators, from highest to lowest, is: not, and, or.
+#explanation#
+We have already explored the idea of operator precedence; recall that BEDMAS is a system of defining the precedence of algebraic operators. The order of precedence for boolean operators, from highest precedence to lowest precendence, goes in the order not, then and, then or.
+
+Look at the examples shown on the left. The expression 'not False and False' can be made more clear with brackets: '(not False) and False'. Since 'not False' returns True, and 'True and False' returns False, the entire expression returns False.  Study the examples shown and make sure you agree with the listed return values. To help your brain, put brackets in the expressions to highlight the operation that has the highest precedence.

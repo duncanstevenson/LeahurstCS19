@@ -1,0 +1,8 @@
+#imgPath#
+c3s2p4.png
+#bigIdea#
+Characters in strings can be sliced in various ways.
+#explanation#
+The syntax for slicing strings are as follows. When a single character is desired, simply add square brackets after the string and put the index you want to retrieve inside the brackets. The string can be either a string literal (eg. "hello") or a string variable (eg. x = 'hello').
+
+When you want to slice more than one character, you use two indices separated by a colon. For example, x[2:7] will slice all characters in between 2 and 7, but WON'T return the 7th index character (although it WILL return the 2nd). If you want to slice from the start of a string to an index, just omit the first index (ie. x[:3] returns from the start, up to but not including index 3). Similarly, x[3:] starts slicing at index 3 right to the end of the string. When you want to grab single characters from the end, just use negative indices. Make sure you understand the example shown before moving on.

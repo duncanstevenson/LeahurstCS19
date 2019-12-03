@@ -1,0 +1,8 @@
+#imgPath#
+c4s1p7.png
+#bigIdea#
+An if-elif-else statement allows the computer to choose between three code-blocks based on two conditions.
+#explanation#
+Sometimes, even two code-blocks aren't enough. Whenever three or more outcomes are possible, a series of 'if-elif-else' statements are needed. Refer to the diagram and analyze the logic. Note that it is possible to use AS MANY elif branches as you'd like. For example, it is possible to use three conditions to branch 4 ways, or four conditions to branch 5 ways, etc. 
+
+Returning to our last example of dog years, let's say that this time, we want to output three messages. Perhaps if they have the same age as the programmer, the program will print "Hey, that's my age too!". If they are younger than the programmer, "You're young!" is printed to the screen. If their age is larger, "You're old!" is printed.

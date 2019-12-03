@@ -1,0 +1,8 @@
+#imgPath#
+c3s2p5.png
+#bigIdea#
+Slicing and concatenation make for a powerful combination of operators.
+#explanation#
+When you start writing more advanced programs that handle text (ie. strings), you will likely run into situations when you want to join part of one string to another, OR, you may want to insert one string INSIDE another.
+
+To do this, you simply do a combination of slice and concatenation operations. In the example shown, a string variable x was assigned the value 'sale'. A second variable y was defined to be the concatenation of x[:2]+'mp'+x[2:]. Since x[:2] slices out 'sa' and x[2:] slices out 'le', the concatenation creates the new string 'sample'. This is a standard way to insert one string inside another. Does this example help you understand why slice operations don't extract the character of the second index? (eg. x[2:4] returns characters at index 2 and 3, but not 4).

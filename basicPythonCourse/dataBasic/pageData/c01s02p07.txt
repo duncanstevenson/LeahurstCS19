@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p7.png
+#bigIdea#
+A code comment is ignored by the Python Interpreter and is written to help programmers.
+#explanation#
+Sometimes a programmer wants to leave a note inside a program for future reference. These notes are called comments. Comments are only for programmers - they are simply to help make code more readable and easier to understand.
+
+Comments are entered in Python using the hashtag symbol (#). Once a hashtag is typed, the comment continues until the following line of code. The Python Interpreter will completely ignore the text after the hashtag, but will read any text BEFORE the hashtag.
+
+Analyze the example shown in the figure. Comments appear red in IDLE. Do you understand why the second print statement didn't work?

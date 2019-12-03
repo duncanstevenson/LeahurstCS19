@@ -1,0 +1,10 @@
+#imgPath#
+c2s3p5.png
+#bigIdea#
+Repeated tasks are much simpler using functions.
+#explanation#
+Let's see a concrete example of how functions can make repeating tasks easier to implement and make the code easier to read.
+
+In the example shown, the programmer needed an ability to alphabetize the names found in several strings. To do this, she defined a function called rearrange, which took a comma separated string as input, and generated an alphabetized comma separated string as output.
+
+Notice in the code snippet, it jumps from line 1 to line 20. This is because the missing lines have been hidden from view. And this is the beauty of functions. You should be able to understand the remaining code without needing to know the missing lines! Ask the teacher if you need help with this example.

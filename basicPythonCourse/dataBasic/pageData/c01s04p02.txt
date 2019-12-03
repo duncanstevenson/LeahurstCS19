@@ -1,0 +1,10 @@
+#imgPath#
+c1s4p2.png
+#bigIdea#
+IDLE helps us learn subtle aspects of Python via trial and error.
+#explanation#
+You have already started coding in IDLE and will continue to do so regularly throughout the year. IDLE is a great way to test out coding ideas.
+
+Sometimes, you won't know exactly how something works or you will want to see if an idea you'd like to implement in a larger context is viable. IDLE helps us learn about ideas in isolation, since it will print the result of operations to the screen that we normally don't get to see right away when writing programs.
+
+For example, when we make the statement x = 2+3, it stores the result of 2+3 in x. However, what if what was stored wasn't what we THOUGHT was stored? How would we know? Well, we can simply type 2+3 into IDLE to make sure things make sense. As we expect, the result 5 is printed to the screen.

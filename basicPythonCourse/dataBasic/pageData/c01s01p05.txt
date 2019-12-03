@@ -1,0 +1,10 @@
+#imgPath#
+c1s1p5.png
+#bigIdea#
+Integers are positive or negative whole numbers.
+#explanation#
+Last lesson mentioned that a bit is not always interpreted as boolean. In fact, usually, bits are not analyzed in isolation, but rather, they are grouped together into units before interpretation.
+
+Integers can be represented by units of bits using several conventions. The simplest to understand is called the signed magnitude representation (SMR). In 4-bit SMR, the most significant bit of the unit (shown as blue) keeps track of the sign (0 for positive, 1 for negative) whereas the other three bits keep track of the magnitude (shown in red).
+
+How do we get the magnitude? By simple counting! 000=0, 001=1, 010=2, 011=3, 100=4,101=5, 110=6, and 111=7. To store larger integers than 7 (or -7) we need more than 4 bits in the unit.

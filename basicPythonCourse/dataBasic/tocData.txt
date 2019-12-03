@@ -1,0 +1,171 @@
+#CHAPTERS#
+Chapter 1: Programs and Data
+Chapter 2: Functions, Input, and Output
+Chapter 3: Operators, Expressions, and Statements
+Chapter 4: Flow Control
+Chapter 5: Objects and Methods
+Chapter 6: Major Project
+#c01#
+Section 1: What is Data?
+Lesson: Why Learn to Code?
+Lesson: Data and Information
+Lesson: Data and Computers  
+Lesson: Data and Booleans
+Lesson: Data and Integers
+Lesson: Integers and Booleans
+Lesson: Data and Floating Point Numbers
+Lesson: Data and ASCII characters
+Lesson: Data and Strings
+Review and Practice
+Section 2: What is a Program?
+Lesson: What Should a Program Accomplish?
+Lesson: Natural vs Formal Languages
+Lesson: The Python Language
+Lesson: The Flow of A Python Program
+Lesson: Using IDLE
+Lesson: Printing to the Screen in Python
+Lesson: Comments in Python
+Lesson: Integers in Python
+Lesson: Floating point numbers in Python
+Lesson: Strings in Python
+Lesson: Booleans in Python
+Review and Practice
+Section 3: Variables
+Lesson: Storing and Accessing Data
+Lesson: Using a Symbol Table
+Lesson: Assigning a Value to a Variable 
+Lesson: Redefining a Variable with a New Value
+Lesson: Using the Built-In Simulator
+Example: Understanding the Symbol Table
+Lesson: Pointing Two Variables to the same RAM Address
+Example: Pointing Variables to RAM Addresses
+Lesson: Symbol Table vs. Screen Output
+Example: Understanding the Screen Output
+Review and Practice
+Section 4: Running Python Programs
+Lesson: How is This Program Being Run?
+Lesson: Using the IDLE interpreter
+Lesson: Using a Text-Editor
+Lesson: Navigating Windows File System Using CMD
+Lesson: Navigating MAC File System Using Terminal
+Lesson: Running Programs in CMD and Terminal
+Lesson: Workflow Suggestion
+Lesson: Unit Conversion Program
+Project: Write Your Own Unit Conversion Code
+#c02#
+Section 1: Working Functions
+Lesson: What is a function?
+Lesson: Function Name
+Lesson: Function Arguments
+Lesson: Function Return Value
+Lesson: Function Side-Effects
+Lesson: Function Syntax
+Lesson: Calling a Function
+Lesson: Built-in functions in Python
+Example: Using the str function
+Example: Using the int and float functions
+Example: Using the len function
+Example: Using the abs function
+Review and Practice
+Section 2: User Input
+Lesson: Interacting with a User
+Lesson: The input function syntax
+Lesson: The input function return value
+Review and Practice
+Section 3: Defining your Own Functions
+Lesson: Why define a function?
+Lesson: Function definition in Python
+Lesson: Difference between Arguments and Parameters
+Lesson: Program Flow when Calling Functions
+Lesson: Concrete Example of a Reusable Function
+Example: Foo with parameters and a return value
+Example: Foo with no parameters and no return value
+Example: Foo with parameters and no return value
+Example: Foo with no parameters and a return value
+Review and Practice
+Project: Write a Restaurant Bill Program
+#c03#
+Section 1: Understanding Expressions and Statements
+Lesson: Operators
+Lesson: The Return Value of an Operator
+Lesson: Expressions
+Lesson: The Return Value of an Expression
+Lesson: Statements
+Lesson: Expressions that Do Nothing
+Lesson: Order of Precedence: BEDMAS
+Lesson: Special Operators for Numbers
+Example: Using Number Expressions Effectively
+Review and Practice
+Section 2: String Expressions
+Lesson: Concatenation and String Multiplication
+Lesson: Operation Precedence and Operand Class
+Lesson: The Slice Operator
+Lesson: Different Ways of Slicing Strings
+Lesson: Combining Slicing with Concatenation
+Example: Using String Expressions Effectively
+Review and Practice
+Section 3: Boolean Expressions
+Lesson: What is a Boolean Expression?
+Lesson: Boolean Operator not
+Lesson: Boolean Operator or
+Lesson: Boolean Operator and
+Lesson: Boolean Expressions with not, or, and
+Lesson: Comparison Operators
+Lesson: Table of Comparison Operators
+Lesson: Combining Comparison with Boolean Operators
+Review and Practice
+Project: Complete the Expressions Worksheet
+#c04#
+Section 1: Branching
+Lesson: Decision making in Computer Science
+Lesson: Conditions
+Lesson: The if-statement logic
+Lesson: The if-statement syntax
+Lesson: The if-else statement logic
+Lesson: The if-else statement syntax
+Lesson: The if-elif-else statement logic
+Lesson: The if-elif-else statement syntax
+Example: If statements
+Example: If-else statements
+Example: If-elif-else statements
+Review and Practice
+Section 2: Looping
+Lesson: Loops in Computer Science
+Lesson: The While-Loop Logic
+Lesson: The While-Loop Syntax
+Lesson: The For-Loop Logic
+Lesson: The For-Loop Syntax
+Example: While-Loop
+Example: For-Loop
+Example: Loops and Branching Combined
+Review and Practice
+Project: Code a Working Hangman Game
+#c05#
+Section 1: Objects and Methods
+Lesson: What is an Object?
+Lesson: Dot-Notation
+Lesson: Fields and Methods
+Lesson: Boolean and Integer Objects
+Lesson: String Objects
+Lesson: The find() Method
+Lesson: The isdigit() Method
+Lesson: The isalpha() Method
+Lesson: The format() Method
+Example: Using find() Method
+Example: Using isdigit() and isalpha() Methods
+Example: Using format() Method
+Review and Practice
+Section 2: The List Object
+Lesson1
+Lesson2
+Lesson3
+Example
+Section 2: The Dictionary Object
+Lesson:
+Review and Practice
+#c06#
+Section1: Major Project
+Lesson1
+Lesson2
+Lesson3
+Example

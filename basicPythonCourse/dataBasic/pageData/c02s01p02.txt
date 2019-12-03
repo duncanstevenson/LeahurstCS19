@@ -1,0 +1,10 @@
+#imgPath#
+c2s1p2.png
+#bigIdea#
+Functions are given names by programmers to make executing several computations easier.
+#explanation#
+Functions are written to have a specific purpose; that is, to achieve a specific programming goal. 
+
+Functions perform a series of computations. In the example shown, the function named foo performs computations 1-6. Functions are convenient because we only have to specify what the computations are once. After we have defined a function and its computations, from that point onwards we simply have to refer to the FUNCTION NAME whenever we want the computations to occur.
+
+To make an analogy, think of the word 'jump'. If I ask you to jump, you first have to bend your knees and then thrust yourselves upwards; two steps are involved and yet I can use a single command (jump) to make both steps occur. It's the same idea for functions.

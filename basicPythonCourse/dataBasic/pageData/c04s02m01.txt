@@ -1,0 +1,6 @@
+#text#
+Complete a Hangman Program!!
+
+Follow the step-by-step instructions found in your foo folder. Have fun and ask for help if you need it! You will be graded on this work so make sure you understand what you're doing.
+
+Good luck!

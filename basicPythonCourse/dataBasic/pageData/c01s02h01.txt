@@ -1,0 +1,17 @@
+#KU#h10
+[K1] What does a program do?
+[K2] What are the main differences between a natural and formal language?
+[K3] What is the difference between source code and machine code?
+[K4] How does a Python program flow?
+[K5] What are the associated False values for integers, floating point numbers, and strings?
+[K6] What are six different associated True values in Python? (Two for each kind of data please)
+[K7] Will print(2/1) print an integer or a floating point number?  Why?
+[K8] Will print(2*3) print an integer or a floating point number? Why?
+[K9] Will print(4.0-2) print an integer or a floating point number? Why?
+#TI#h6.5
+[T1] In IDLE, print the string '412412412412' using a string containing only 3 characters.
+[T2] In IDLE, print a simple picture using only one print statement, taking advantage of escape characters. For example, to see what I mean, copy and paste in IDLE:    print("* *\n o \n _ ")
+[T3] Repeat T2 and make a different picture.
+[T4] What happens if you concatenate the two strings you made in T2 and T3 together, and then print? Ie. make a command such as print("pic1string"+"pic2string")
+#A#h1.5
+[A1] Do algebraic computations obey the rules of BEDMAS in Python? Test out some algebra using IDLE and find out whether BEDMAS works correctly.

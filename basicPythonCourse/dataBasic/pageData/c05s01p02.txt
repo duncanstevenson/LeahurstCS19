@@ -1,0 +1,7 @@
+#imgPath#
+c5s1p2.png
+#bigIdea#
+Dot Notation is the way assigning and accessing all the information related to an object.
+#explanation#
+Dot notation is how you can find the data contained within an object, and change it. It's like keeping a folder of information on the same thing; if you want to access any information about that thing, you have to look in the folder. This is the same with python, if you want to look at information or functions in an object, you have to use the syntax: "[object name].[thing you want to do]". The thing after the dot can be a variable with information about the object, another object with a lot more data inside, or a function that will change something about the object (remember the car example from the last page?).
+Something to remember is that if you change something about one object "a" of type [x], it wont change it for object "b" of type [x], UNLESS you say "a=b", which means that "a" and "b" are pointing to the same object in ram, so when you change something about "a", "b" will also change.

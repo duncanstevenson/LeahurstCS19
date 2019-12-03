@@ -1,0 +1,11 @@
+#KU#h2
+[K1] What is a condition?
+[K2] What is the difference between an if statement and an if-else statement?
+[K3] What is the difference between an if-else statement and an if-elif-else statement?
+[K4] How many code-blocks would be involved in an if-elif-else statement that contains 8 conditions?
+#TI#h8
+[T1] Write the three modified versions of the dog year converter program with special messages that depend on user input. The first program should use an if-statement, the second should use an if-else, and the third should use an if-elif-else statement.
+[T2] Write a program that asks the user to type in how they are feeling. If the length of their answer is less than 200 characters, write them a reassuring message. If their answer is longer than 200 characters, let them know you'll need time to process their response and will get back to them later.
+[T3] Write a program that asks the user for input. Think of a way that you can analyze their input to respond in seven different ways. Test your program to make sure it is possible for all seven outcomes to occur.
+#A#h1.5
+[A1] Analyze the three examples found at the end of this section. Notice notes weren't given this time. By clicking through the simulator one-step at a time, write your own note about what you think is happening each important step of the way. After you finish the first example, discuss it with the teacher before continuing.

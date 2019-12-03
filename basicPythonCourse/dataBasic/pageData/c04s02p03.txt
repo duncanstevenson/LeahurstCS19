@@ -1,0 +1,8 @@
+#imgPath#
+c4s2p3.png
+#bigIdea#
+A while-loop obeys strict syntax rules.
+#explanation#
+We are starting to learn a theme within the syntax rules so far: to define a code block, we need a colon and indentation. There is nothing different about that rule when it comes to a while-loop. We use the keyword 'while' and then put a condition followed by a colon. Thus, a while-statement looks VERY similar to an if-statement. Python knows the difference between the two because of the different keywords (if vs. while).
+
+In the example shown, this mini-program will check to make sure the user did what the prompt asked it to. The condition starts False (since L=0 and 0!=3). When inside the loop, it asks the user for input. If the length of the input is 3, it will escape the loop the next time the condition is checked. If the length of the input is not three, it will print ("please try again") and the loop will happen again, requiring the user to re-enter their response.

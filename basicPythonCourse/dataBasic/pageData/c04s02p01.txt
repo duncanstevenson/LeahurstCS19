@@ -1,0 +1,8 @@
+#imgPath#
+c4s2p1.png
+#bigIdea#
+Computer programs become much more powerful when they are able to repeat a certain code block more than once.
+#explanation#
+Last section we learned how to use conditions to help programs become smarter with decision making power. In this section, we will learn how to make a computer repeat a given code-block over and over again. This is a very useful strategy; if we want something to happen many times, why code it more than once? It is much simpler to tell the program how to decide when the code block should stop being executed.
+
+In the image on the left, two mirrors were used to create an infinite number of reflections. This is a physical loop. Each time light bounces off the front mirror, it returns to the back mirror, reflecting forever. In computer science, we will implement a similar strategy, although, we want the ability to BREAK THE LOOP somehow.

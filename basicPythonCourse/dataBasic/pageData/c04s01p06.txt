@@ -1,0 +1,8 @@
+#imgPath#
+c4s1p6.png
+#bigIdea#
+The code-blocks that belong to an if-else statement are grouped via consistent indentation.
+#explanation#
+The syntax rule of an if-else statement is very similar to an if-statement. The if part is exactly the same. You use the keyword 'if', followed by a condition and colon. Then you indent a code-block. When you are done coding code-block #1, then you stop indenting and write the keyword 'else' followed by a colon. Then you indent a second code-block (code block #2) until you are done with that block.
+
+In the example shown, the condition coded was x>y. How does this program work? If the value in x is larger than the value stored in y, the condition is True and therefore lines 2-5 will be executed. If x<=y, however, then the condition is False and lines 7-10 are executed instead. In either case, after the correct code block has been executed, lines 11-13 execute no matter what.

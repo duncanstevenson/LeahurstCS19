@@ -1,0 +1,10 @@
+#imgPath#
+c1s4p7.png
+#bigIdea#
+Position your windows for efficient coding and program execution.
+#explanation#
+When you are working with a text-editor, you want to have quick access to the text-editor (Sublime) and the window running the program (CMD or Terminal).
+
+I suggest you have half your screen dedicated to coding, and the other half dedicated to CMD or terminal. This will make the coding process less cumbersome.
+
+It may also be a good idea to have IDLE and the course minimized so you can open up either very quickly for a mini experiment or a quick reference.

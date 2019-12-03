@@ -1,0 +1,16 @@
+#KU#h12
+[K1] What is a boolean expression?
+[K2] What is a truth table and what does it help you understand?
+[K3] What are the three boolean operators and what is their precedence rule?
+[K4] Write down phrases that will help you remember the function of the boolean operators. Your phrases should reference the operator NAMES somehow. 
+[K5] What is the difference between a boolean operator and a comparison operator?
+[K6] What has higher precedence, boolean or comparison operators?
+[K7] What will 9>7 return? Why?
+[K8] What will 9<7 return? Why?
+[K9] What will 9==7 return? Why?
+[K10] What will 9!=7 return? Why?
+#TI#h4
+[T1] Click back to lesson "Boolean Expressions with not, or, and". What would the three example expressions return if the precedence rule was reversed? (ie. if or had highest and not had lowest).
+[T2] In IDLE experiment with all 9 operators studied in this section and make sure you understand how they work with concrete examples. Report at least two concrete examples tested in IDLE per operator.
+#A#h1.5
+[A1] Complete the mini-project listed on the next page.

@@ -1,0 +1,10 @@
+#imgPath#
+c2s1p1.png
+#bigIdea#
+In computer science, a function is something that performs a series of computations using a simple command.
+#explanation#
+This chapter is all about functions. Functions allow us to write programs that use less code, that are more reliable, more flexible, and more adaptable.
+
+A function does three main things. First, it receives something called an input. An input may contain a single value or multiple values. Second, it returns something called an output. The output must be a single data value. Third, it causes side-effects in the program or in the computer.
+
+Each of these concepts will be explained in more detail in this section. For now, the important idea is that a function can do many things at once, and the programmer needs only write a SINGLE COMMAND to perform this complex functionality.

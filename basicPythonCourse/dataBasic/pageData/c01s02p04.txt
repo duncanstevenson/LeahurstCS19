@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p4.png
+#bigIdea#
+Python programs flow from top to bottom.
+#explanation#
+The flow of a program can be understood as the order in which the instructions in the code proceed. 
+
+In Python, understanding flow is relatively simple. As a first rule of thumb, programs always start at line 1 of the source code and end after the last line of code. We will use the acronym EOF (end of file) to represent the end of a python program.
+
+In the example shown, the code starts at line 1. Python interprets the statement 'x=1' and then moves on to line 2. It then interprets line 2, then line 3, then line 4, and then quits. There are ways to make a Python program flow in different ways, but until we learn about those methods, always assume the program flows top to bottom.

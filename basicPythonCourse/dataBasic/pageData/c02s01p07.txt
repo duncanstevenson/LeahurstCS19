@@ -1,0 +1,10 @@
+#imgPath#
+c2s1p7.png
+#bigIdea#
+A 'function call' is a request to execute the operations defined by a certain function.
+#explanation#
+In the previous lesson, we learned the syntax rule of CALLING a function. What does this mean? Let's looks at the flow chart on the left.
+
+The argument of a function is the value we send to it. In the example shown, 'Hello There' is the argument that is sent to the function len. The function len receives the string 'Hello There', does some operations that use the input somehow, and then returns a result as an output. In the example shown, the programmer asked that the return value (aka output) was stored in a variable they called length_of_string. 
+
+In fact, the function len measures how many characters are in a string. Try it in IDLE, type len('Hello There') and see what it spits out!

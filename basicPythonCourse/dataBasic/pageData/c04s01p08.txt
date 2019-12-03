@@ -1,0 +1,8 @@
+#imgPath#
+c4s1p8.png
+#bigIdea#
+The code-blocks that belong to an if-elif-else statement are grouped via consistent indentation.
+#explanation#
+The syntax rule of an if-elif-else statement is very similar to an if-else statement. The 'if' and 'else' parts are exactly the same. The difference is that after the 'if' part, an 'elif' statement is made using a second condition. Note that the 'if' condition is always tested first. The elif condition is only tested if the original if-statment is False.
+
+In the example shown, the 'if' condition coded was x>y. If the value in x is larger than the value stored in y, the condition is True and therefore lines 2-5 will be executed. If x==y, however, then the 'if' condition is False and the 'elif' condition is tested. If the 'elif' condition is True, lines 7-10 will be executed. If the 'elif' condition is False, then lines 12-15 are executed. No matter what, lines 16-18 are executed after the if-elif-else statements finish.

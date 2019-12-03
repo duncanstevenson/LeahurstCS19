@@ -1,0 +1,10 @@
+#imgPath#
+c1s4p4.png
+#bigIdea#
+Windows Command Prompt is another way of navigating your file system.
+#explanation#
+On your computer there are files and folders organized in something called a file system. Files are things that store data (eg. a word file, an excel file, a jpg file, etc.). Files are stored in things called Folders (aka directories). 
+
+Normally, you access your files and folders using Windows Explorer. You double click folders to enter them, and double click files to open them. 
+
+Another way to access the file system is by using command prompt. In the search bar, type in cmd and press enter. This opens a command prompt window. Type in dir and press enter. This will display all files and folders in the current directory. To move into another folder, type the command cd and then the new folder name.

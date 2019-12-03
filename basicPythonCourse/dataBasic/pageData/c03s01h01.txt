@@ -1,0 +1,12 @@
+#KU#h5
+[K1] Explain, in your own words, the difference between an operator, an expression, and a statement.
+[K2] Which operator has higher precedence, multiplication or remainder? (Google it)
+[K3] Can the same operator behave differently depending on what type of data is being used for the left and right operands? Explain using examples.
+[K4] What happens behind the hood (ie. in the CPU and RAM) when an expression is coded in isolation (ie. without being part of some kind of statement)?
+#TI#h7
+[T1] In a series of steps, determine the return value of the expression (2-3)**3*4/2. Do only one step at a time in the correct order.
+[T2] In a series of steps, determine the return value of the expression len('hi'*3)*2. Do only one step at a time.
+[T3] In IDLE, write an expression that converts a string into an integer and calculates the circumference of a circle using the converted string as the radius. Accomplish this using a single line of code (ie. use only one expression).
+[T4] One operator in Python groups right-to-left in the case of equal precedence (all others group left-to-right). Research and find out which operator is the odd ball.
+#A#h3
+[A1] We learned that the + operator can be used on strings to perform concatenation, and on numbers to perform addition. Since these are very different programming goals, why do you think the programmers who wrote Python decided to let the same operator have different functions depending on the type of operand data? Why not use one symbol for addition and a different symbol for concatenation? 

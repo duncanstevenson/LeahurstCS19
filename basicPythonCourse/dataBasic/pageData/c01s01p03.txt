@@ -1,0 +1,10 @@
+#imgPath#
+c1s1p3.png
+#bigIdea#
+Computer data is nothing but 0's and 1's stored in computer memory.
+#explanation#
+The data stored inside a computer can be processed into very complex and rich information despite being binary (made up of only two values).
+
+Modern computer memory is capable of holding trillions of 0's and 1's in a very small chip called RAM. The microscopic container that can hold a single 0 or 1 is called a bit. The computer can change or access the value of any given bit upon command. A programmer achieves this by taking advantage of a fancy address book we will learn about later. 
+
+The task of a computer's brain (called the central processing unit or CPU) is to convert sequences of binary data stored in memory into meaningful information. Let's learn a few different ways that binary data can represent information.

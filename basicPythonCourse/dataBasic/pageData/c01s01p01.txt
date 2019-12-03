@@ -1,0 +1,8 @@
+#imgPath#
+c1s1p1.png
+#bigIdea#
+Coding is both useful and fun!
+#explanation#
+Computers have been changing the world for decades. If you are reading this as a high school student, you probably don't know what life was like without a computer. Certainly, learning how to code is a skill that will benefit you in your professional future, whether you become a programmer or not.
+
+However, I don't want you to worry about your future this year! Instead, let's have fun, and approach computer science with some playfulness and joy. If you like solving puzzles, seeing your imagination come to life, or making something work, you will like this course! One of the first things we will learn how to do is to make our own ASCII art similar to the ones shown in the figure on the left.

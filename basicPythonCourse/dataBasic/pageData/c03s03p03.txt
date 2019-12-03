@@ -1,0 +1,10 @@
+#imgPath#
+c3s3p3.png
+#bigIdea#
+The or operator returns True when either of the operands is True.
+#explanation#
+The second boolean operator we will study is called the or operator. The or operator operates on two operands (ie. it has a left operand and a right operand). It returns True so long as ONE of the operators is True.
+
+See the truth table for clarification. All permutations of the left operand x and the right operand y are listed. When x is False and y is False, x or y is also False. This is the only way to generate a False value with the or operator. All other permutations are True.
+
+Can you guess why this operator is called OR? Try and come up with a simple phrase to explain the or operator's function referencing its name somehow.

@@ -1,0 +1,41 @@
+#n#1
+In this example, a function foo will be defined that doesn't take any arguments (ie. it doesn't have any parameters). Also, the function foo doesn't have a return value. Thus, this function ONLY HAS SIDE-EFFECTS. Each time it is called, it performs the same five print statements and then returns nothing to the caller.
+
+Despite having no input values and no return values, it's still a handy function. Let's see what it does.
+#n#2
+The function foo was defined and its value was stored in the symbol table. Notice that the syntax on line 01 is written "def foo():". Since there aren't any variables written inside the brackets, foo takes ZERO parameters (ie. the number of comma separated variables inside the brackets in the def statement defines the number of parameters).
+#n#3
+The function call "foo()" was just executed. Since this function call isn't an assignment statement (eg. we didn't say x = foo()), the programmer isn't expecting a return value from from foo.
+
+Prepare to jump to line 01.
+#n#4
+We are about to execute lines 02-07, which are a series of print statements.
+#n#5
+The print statement on line 02 was executed.
+#n#6
+The print statement on line 03 was executed.
+#n#7
+The print statement on line 04 was executed. Notice that because the '\' character is a special character (used to define escape characters such as '\n') we need two backslashes '\\' to print a single backslash to the screen. 
+
+Even though the figure doesn't look lined up in the function foo's print statements, it lines up well in the SCREEN OUTPUT.
+#n#8
+The print statement on line 05 was executed.
+#n#9
+The print statement on line 06 was executed.
+#n#10
+Line 07 was executed and the two-step return process was started. Since there is no value written after the keyword 'return', there is no value for the CPU to access. Thus, no return value was prepared to send back.
+#n#11
+The CPU jumped back to line 08.
+#n#12
+The print statement in line 09 was executed.
+#n#13
+The function foo was called again on line 10. 
+
+Prepare to jump to line 01.
+#n#14
+The program is about to execute lines 02-06 again. No notes will be printed for these steps since they are the same as before.
+#n#21
+The program has jumped back to line 10 and once again the variable foo appears in our symbol table.
+
+The value of a function similar to the function foo here is as follows: it allows for the repetitive printing of an ASCII image using a single command. In the next example, we will learn how to make such a trick more powerful.
+#n#

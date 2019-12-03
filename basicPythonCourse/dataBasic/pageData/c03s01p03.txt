@@ -1,0 +1,10 @@
+#imgPath#
+c3s1p3.png
+#bigIdea#
+An expression is a combination of values, variables, operators and functions.
+#explanation#
+As programmers, we need the flexibility to do many different operations, in different combinations. Thus, we must learn the next important concept; that is, the idea of an expression. An expression is a combination of values, variables, operators, and functions; however, not all of those ingredients need be in ALL expressions. In fact, an expression can be as simple as a single-value, a single-operation, a single function call, or a single variable. 
+
+In the example shown, the expression involves all four possible ingredients. If s is a variable holding the string "Hi", can you deduce what the value of the entire expression must be?
+
+This question motivates the next lesson.. that is, the return value of an expression. Turn the page.

@@ -1,0 +1,8 @@
+#imgPath#
+c2s3p3.png
+#bigIdea#
+Parameters and arguments have slightly different meaning.
+#explanation#
+Before we get into the interplay between function calls and function definitions, we must first learn the difference between function arguments and function parameters. An argument is what is sent to a function. It always will have a concrete value. A parameter, on the other hand, is what a function calls an argument that has not yet been defined. 
+
+In the example shown, the programmer makes two separate calls to the same function foo. In the first call, she sends the arguments "Julia" and 17. These arguments get copied to the functions parameter variables -- name and age -- respectively. In the second call, the programmer sends a DIFFERENT SET OF ARGUMENTS ("Mike" and 39) to the SAME SET OF PARAMETERS name and age.

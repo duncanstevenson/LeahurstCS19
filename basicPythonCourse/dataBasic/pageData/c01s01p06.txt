@@ -1,0 +1,10 @@
+#imgPath#
+c1s1p6.png
+#bigIdea#
+The same data unit can be interpreted as different information.
+#explanation#
+To help reinforce the difference between data and information, lets take a look at an example that shows why context matters when interpreting data. 
+
+Shown in the figure are two data units (A and B). When the arrows hit a brain with the word 'int', this means the CPU will decide to interpret the data unit as an integer. When the arrow hits a brain with 'bool' written, the CPU will intepret the data unit as a boolean value.
+
+Notice that we have 4 entirely different intepretations (+5, True, +0, and False) even though there were only 2 unique sets of data. Note that for multibit units, booleans are False only when all bits are zero, and True so long as any individual bit is set to 1.

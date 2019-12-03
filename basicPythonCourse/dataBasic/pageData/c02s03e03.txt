@@ -1,0 +1,47 @@
+#n#1
+In this example we will modify the foo function from the previous example by adding two parameters to it: wid and char. The wid parameter will define how many hangman images should be printed horizontally. The char parameter will define what character to print as the hangman poles.
+
+Let's see it in action.
+#n#2
+Python has just executed line 01 and has stored the function foo into RAM. The symbol name 'foo' now appears in our symbol table.
+#n#3
+The function call on line 08 has just been executed. The symbol table has been cleared and the variables wid and char have been defined with the values 3 and '#', respectively. 
+
+Prepare to jump to line 01.
+#n#4
+The program has just jumped and is about to execute the foo function computations defined on lines 02-07.
+#n#5
+The print statement on line 02 was just executed. The print statement involves a string concatenation AND a string multiplication in the same line. First, the string is concatenated with some predetermined text AND the character stored in char. Then, the concatenated string is multiplied by the integer stored in wid. The result of these two operations is a string that is repeated 3 times and embedded with the character '#' for the hangman pole. The hangman noose was printed 3 times.
+#n#6
+The print statement on line 03 was just executed in a similar manner to that described for line 02. 
+
+The hangman head was printed 3 times.
+#n#7
+The print statement on line 04 was just executed in a similar manner to that described for line 02. Notice again the use of the double backslash because of the special meaning of a single backslash inside of strings.
+
+The hangman arms and upper torso was printed 3 times.
+#n#8
+The print statement on line 05 was just executed in a similar manner to that described for line 02.
+
+The hangman lower torso was printed 3 times.
+#n#9
+The print statement on line 06 was just executed in a similar manner to that described for line 02.
+
+The hangman legs were printed 3 times.
+#n#10
+The return statement on line 07 was just executed. No return value was stored in the CPU.
+
+Prepare to jump back to line 08.
+#n#11
+The program just jumped back to line 08. No return value was received and there is no assignment statement coded.
+#n#12
+The program just executed the print statement on line 09.
+#n#13
+The function call on line 08 has just been executed. The symbol table has been cleared and the variables wid and char have been defined with the values 4 and ':', respectively. 
+#n#14
+The program just jumped back to line 01. Function foo computations defined in lines 02-07 are about to proceed. No notes will be given as they are the same steps defined earlier.
+#n#21
+We have reached EOF. Notice that a simple printing function becomes more versatile by adding just two simple parameters. 
+
+In the next example, we will learn one last way we can define and call functions.
+#n#

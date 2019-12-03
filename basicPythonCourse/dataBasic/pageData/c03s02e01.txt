@@ -1,0 +1,19 @@
+#n#2
+Line 01 was just executed. The string 'Albert Einstein' was stored in the variable name.
+#n#3
+Line 02 was just executed. The characters at indices 5, 3, -1, and 6 were sliced out individually and concatenated together. This resulted in the string 'ten ' being stored in the variable pt1.
+#n#4
+Line 03 was just executed. The characters at indices 7, 1, -2, -4, and -3 were sliced out individually and concatenated together. This resulted in the string 'Elite' being stored in the variable pt2.
+#n#5
+Line 04 was just executed. The characters at indices 2, 4, and 0 were sliced out individually. The characters in between indices 8 and 11 (not including 11) were sliced out using a double index slice operation. All of these characters were concatenated together. This resulted in the string 'brAins' being stored in the variable pt3.
+#n#6
+Line 05 was just executed. The characters from the start of name (index 0) up until (but not including) index 6 were sliced out. This resulted in the string 'Albert' being stored in the variable firstName.
+#n#7
+Line 06 was just executed. The characters between index 6 up until the end of the string were sliced out. This resulted in the string    ' Einstein' being stored in the variable lastName.
+#n#8
+Line 07 was just executed. The four strings inside the print statement were concatenated together, and we see on the screen that "Anagram of Albert Einstein is:" was printed. Notice that the space between Albert and Einstein is found, even though we never manually entered one. Can you figure out why?
+#n#9
+Line 08 was just executed. The four strings inside the print statement were concatenated together, and we see on the screen that "ten Elite brAins" was printed. Notice that it was necessary to add name[6] between pt2 and pt3 in order to get the space printed between 'Elite' and 'brAins'. Can you figure out why?
+
+Make sure you understood fully each line of code here before moving on.
+#n#

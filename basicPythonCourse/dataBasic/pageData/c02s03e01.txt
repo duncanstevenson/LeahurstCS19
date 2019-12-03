@@ -1,0 +1,59 @@
+#n#2
+Line 01 was just executed. This caused Python to add foo to the symbol table. Notice that the value of foo is a function at some RAM address. The def statement on line 01 cause Python to stored the computations defined in lines 01-03 somewhere in RAM for later access. 
+#n#3
+Line 04 was just executed. Python read the syntax as a function call. There are two steps in a function call. In the first step just executed, the symbol table was cleared (notice foo is no longer in it), and it was repopulated with variables corresponding to our parameters (num1 and num2). The values of the parameters were set to the values of the arguments passed to foo (2 and 3). We are about to perform the second step of function calling, which is jumping to a new line of code.
+#n#4
+Python just jumped to line 01. We are about to do the first computation inside the function foo.
+#n#5
+The local variable result was just defined as the product of parameters num1 and num2. 
+
+A local variable is a variable that only exists inside a certain SCOPE. The scope here is the foo function definition (lines 01-03). The variable result will only exist inside the scope of the function foo. When we leave foo, result will cease to exist.
+
+The next line of code is the return statement.
+#n#6
+A return statement, just like a function call, happens in two steps. 
+
+In the first step just executed, the CPU accessed a certain address in RAM (we don't see this step, it's behind the scenes). Since we asked to return the value stored in the variable result, the CPU will access the appropriate address corresponding to result and will store that variable somewhere in the CPU temporarily.
+#n#7
+In the second step of the return statement, the CPU jumped back to the line of code where the function call originated from (line 04). Next, it cleared its symbol table and restored all values that existed before the function call. Lastly, it defined a new variable answer1, which was initialized with a value corresponding to the return value of the function foo.
+
+Notice that answer1 has the same value that result had right before we jumped back from foo.
+#n#8
+Function call on line 05 was just executed. Symbol table was cleared. Parameter variables num1 and num2 were defined as the arguments of foo on line 05 (num1=3, num2=4). 
+
+Prepare to jump back to line 01.
+#n#9
+Program just jumped to line 01 and is about to execute line 02.
+#n#10
+The variable result was initialized as the product of num1 and num2. Notice that the value of result is different than the last time this function was called.
+
+Line 03 is about to be executed.
+#n#11
+Return statement on line 03 was just executed. CPU accessed the value of result and stored it temporarily in the CPU memory bank.
+
+Prepare to jump back to line 05.
+#n#12
+CPU just jumped back to line 05. It cleared the symbol table and restored it to the variables that existed before the function call happened. It then defined a new variable answer2 and set it to the return value stored in the CPU memory bank.
+#n#13
+A new variable n1 is defined to the integer value 8.
+#n#14
+A new variable n2 is defined to the integer value 6.
+#n#15
+Function call on line 08 was just executed. Symbol table was cleared. Parameter variables num1 and num2 were defined as the arguments of foo on line 05 (num1=n1, num2=n2). Since n1 holds 8 and n2 holds 6, num1 and num2 hold those values as well. This is an example of using variables as arguments (rather than actual numbers which were used in the previous two calls to foo).
+
+Prepare to jump back to line 01.
+#n#16
+Program just jumped to line 01 and is about to execute line 02.
+#n#17
+The variable result was initialized as the product of num1 and num2. 
+
+Line 03 is about to be executed.
+#n#18
+Return statement on line 03 was just executed. CPU accessed the value of result and stored it temporarily in the CPU memory bank.
+
+Prepare to jump back to line 08.
+#n#19
+CPU just jumped back to line 08. It cleared the symbol table and restored it to the variables that existed before the function call happened. It then defined a new variable answer3 and set it to the return value stored in the CPU memory bank.
+
+We have reached the EOF. All local variables inside foo have been destroyed and our four global variables (foo, answer1, answer2, n1, n2, and answer3) all have values.
+#n#

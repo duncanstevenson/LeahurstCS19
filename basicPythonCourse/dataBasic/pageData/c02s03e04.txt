@@ -1,0 +1,23 @@
+#n#1
+In this last example, we will learn a somewhat strange combination: a function with no parameters and a return value. In functions that have no parameters, the return value is often constant (later will we revisit this example and make the return value variable).
+
+Let's see how this example works.
+#n#2
+The function foo was just defined in our symbol table and the computations of foo were stored in RAM.
+#n#3
+Line 08 was just executed. The function foo was called. 
+
+Prepare to jump to line 01.
+#n#4
+The program just jumped. The print statements on lines 02-06 are about to be executed followed by a return statement on line 07.
+#n#10
+The program is about to jump back to line 08. The return value "A HANGMAN WAS PRINTED TO SCREEN" is created and stored in the CPU memory bank. 
+#n#11
+The program just jumped back to line 08. The symbol table was repopulated with the variables before the function call occurred, and a new variable exitValue was created and assigned to the return value of foo. Notice that exitValue now holds the string "A HANGMAN WAS PRINTED TO THE SCREEN".
+#n#12 
+The print statement on line 09 was just executed.
+#n#13
+The value stored in the variable exitValue was just printed to screen. We have reached EOF. 
+
+Why would we ever want to write a program like this? Sometimes, we set a return value to a constant value just to make sure our function executes all computations without error. If we see "HANGMAN WAS PRINTED TO SCREEN" appear on the screen, then we know the function call was successful. Often unnecessary but sometimes useful!
+#n#

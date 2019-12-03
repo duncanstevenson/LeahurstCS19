@@ -1,0 +1,10 @@
+#imgPath#
+c1s4p1.png
+#bigIdea#
+The Python Interpreter can be implemented in a variety of ways.
+#explanation#
+Earlier, we learned that source code (which is code written by humans) needs to be translated into code that a computer can understand (called machine code). Each computer language requires this; that is, a translation from human-understood source code to computer-understood machine code. 
+
+In Python, the translation is performed by a computer program called the Python Interpreter. Either you or your teacher already installed this on your computer if you are running the program course "Programming in Python: The Basics" right now.
+
+In this section we will learn two main ways we will interact with the Python Interpreter throughout this course.

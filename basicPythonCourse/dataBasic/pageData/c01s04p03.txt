@@ -1,0 +1,10 @@
+#imgPath#
+c1s4p3.png
+#bigIdea#
+Choosing a good text-editor makes coding easier.
+#explanation#
+In this section we will learn how to save programs in a file. This gives us one main advantage: the code is saved permanently, so that it can be run over and over again without re-typing any commands.
+
+If we choose a text-editor --- a program that lets you save and edit text files --- that is designed for programmers, the coding process becomes much easier and more fun. The program I recommend you use this year is Sublime Text. 
+
+In Sublime, when you save a file with the extension .py, the colors of the text change to help you understand the python code you are writing. Do this now: open Sublime, and write the print command shown. Next, click 'file', 'save as', and call the file 'helloWorld.py'. Save this file in your homework folder. You should see the text change colors.

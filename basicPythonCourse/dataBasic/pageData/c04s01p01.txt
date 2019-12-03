@@ -1,0 +1,8 @@
+#imgPath#
+c4s1p1.png
+#bigIdea#
+Computer programs become much more powerful when they are able to make decisions.
+#explanation#
+Computer programs that behave in the same way -- no matter what the user does -- are usually impractical. Programs should react in some way to what the user clicks, types, or touches. Thus, a computer program needs the ability to make decisions; that is, to fork or branch. 
+
+When you are driving and reach a fork in the road, you must make a decision before continuing. You only have two options - to veer left or right. Your decision is based on where you want to go. For example, your school, best friend, and karate class may be located along the left path, whereas your grocery store, driving school, and swimming club might be located along the right path. Can you think of a simple sentence that summarizes the decision you need to make and the path you end up taking?

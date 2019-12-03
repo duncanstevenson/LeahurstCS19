@@ -1,0 +1,8 @@
+#imgPath#
+c5s1p3.png
+#bigIdea#
+A method is a function that is specific to an object. Fields/attributes of an object are its properties.
+#explanation#
+A method is called by its name, but it is associated with an object (dependent). A method is called differently than a traditional function. When you define a function, you need the following syntax: "def" + functionName(parameter(s))+":". To use a method, you need to use dot-notation like mentioned in lesson 2.
+ 
+Python has some built-in methods that will make programming easier. For example: if you want to add something to a list, you can use "list.append()", or if you want to insert an element you can use "list.insert()".

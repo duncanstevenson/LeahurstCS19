@@ -1,0 +1,11 @@
+#KU#h7
+[K1] What is the difference between a RAM address, a variable, and a data value? How are they related to each other? 
+[K2] What is the purpose of a symbol table in computer science?
+[K3] What does an assignment statement do? Discuss your answer using the terms: variables, RAM addresses, and data values.
+[K4] Can two variables point to the same RAM address? Explain.
+[K5] Can the user of a program access the symbol table directly? In other words, what limits does a user have in terms of what data she or he can access?
+#TI#h5
+[T1] Review the example symbol table shown in Section 3, Lesson: Using a Symbol Table. What TYPE of data are each of the variables listed currently pointing to (ie. ints, floats, bools, or strings)?
+[T2] Review the example symbol table shown in Section 3, Lesson: Using a Symbol Table. What data value is currently stored in RAM address 10123? What variable is pointing to RAM address 678432?
+#A#h1.5
+[A1] Play around with assignment statements in IDLE. Use different data types, try using mathematical operations, and print things to the screen only sometimes. NOTE: IDLE sometimes prints things even when a print statement isn't requested. The reason for this will be explained in the next section. For now, just explore!

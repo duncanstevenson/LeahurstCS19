@@ -1,0 +1,10 @@
+#imgPath#
+c1s1p7.png
+#bigIdea#
+Floating point data represents numbers with decimal points.
+#explanation#
+Floating point data is more complicated than integer data. It requires three data units to define a number: the sign (labeled 's'), the exponent (labeled 'e'), and the mantissa (labelled 'm'). The representation shown here is a simplified version of the one used in modern computers. 
+
+The 's' unit defines whether the number is positive or negative. The 'e' unit defines how many decimal places to move the decimal point for the number defined in the mantissa 'm'. 
+
+It's not important in this course to understand why the binary number 1101.101 is equivalent to the decimal number 13.625. What is important to understand is that binary data can be interpreted as numbers with decimal points!

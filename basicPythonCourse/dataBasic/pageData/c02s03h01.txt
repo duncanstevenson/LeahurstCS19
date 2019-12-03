@@ -1,0 +1,13 @@
+#KU#h7
+[K1] What are three drawbacks of significanlty long programs that don't use functions? How do functions allow a programmer to get rid of these drawbacks?
+[K2] What are the syntax rules associated with defining a function. List them all.
+[K3] In your own words, explain the difference between a function argument and a function parameter, using concrete examples.
+[K4] How does a function call break the normal rule of a program flowing from top to bottom?
+#TI#h13
+[T1] Open up the file 'brokenFoos.py' in your foo folder. This program has several syntax errors. Fix them all and save your corrected file in your homework folder as 'banners.py'.
+[T2] Make the 'banners.py' file better. Change the banner function to have two parameters: char and wid. Parameter char should define the character that is printed over and over again, and wid should define how many times it is printed.
+[T3] Make the 'banners.py' file even better. Add a third parameter called title that defines what text should be printed in the banner.
+[T4] Figure out how to centre the text in the banner. To do this, you'll need to take advantage of string concatenation, string multiplication, and the len function. HINT: Think about blank spaces.
+[T5] Finish banners.py. It should print a header banner with the title of your program, print a random message, then print a footer banner with a thank you message. Use the SAME banner function for both the header and footer.
+#A#h1
+[A1] Do the project on the next page.

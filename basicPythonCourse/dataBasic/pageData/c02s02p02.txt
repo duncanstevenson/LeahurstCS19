@@ -1,0 +1,10 @@
+#imgPath#
+c2s2p2.png
+#bigIdea#
+User input is accomplished via a simple function call.
+#explanation#
+The way we achieve user input in Python is by calling the built-in function named input(). 
+
+The argument the programmer feeds to the input function becomes the PROMPT the user will see on their screen before they type anything in. Looking at the example shown on the left, the programmer has chosen to send the user the prompt "Please enter your name: ". This text will be printed to the screen before the user is able to type anything in. 
+
+After the prompt is printed, the program simply WAITS for the user to press enter. The user can type in anything they want, and when they press enter, all the characters typed up until ENTER will be the return value of the function input(). In the example, the return value will be stored in the variable 'name'.

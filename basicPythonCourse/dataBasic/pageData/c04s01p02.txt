@@ -1,0 +1,10 @@
+#imgPath#
+c4s1p2.png
+#bigIdea#
+A condition is an expression that returns a boolean value.
+#explanation#
+The first step in making a decision within a computer program is by creating something called a condition. A condition is simply an expression that returns a boolean value. We already learned last chapter how to interpret such expressions. 
+
+For example, take a peek at the image on the left. Here a condition has been defined: x>y. This is an expression that contains two variables (x and y) and a comparison operator (>). When the value stored in x is greater than the value stored in y, the expression returns True. When the value stored in x is less than or equal to the value stored in y, the expression returns False. 
+
+The reason this is called a 'condition' is because it can serve as the criteria for making a decision.  Let's learn how.

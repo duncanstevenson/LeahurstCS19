@@ -1,0 +1,10 @@
+#imgPath#
+c1s2p5.png
+#bigIdea#
+IDLE is a program that lets you interact with the Python Interpreter directly.
+#explanation#
+When you download and install Python on your computer, a program called IDLE comes with it. IDLE lets you run individual Python commands and segments of code directly through the Python Interpeter. It also lets you run larger programs too, but we will use a different program to do this (more on this later). 
+
+To open IDLE in Windows 10, simply type 'idle' in the search bar and click on the app icon to open. Try it now. If it works, you should see a program that looks like the bottom of the figure on the left open up. If you can't get IDLE to open, talk to the teacher.
+
+Once IDLE is open, you're ready to start learning how to code in Python! Let's start. :)

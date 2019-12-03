@@ -1,0 +1,2831 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## basicPython.py ##
+## written by Robert Chatelain ##
+## Modified 8:56 pm, Nov 11, 2019 ##
+
+import sys
+import os
+from tkinter import *
+from tkinter import ttk 
+from contextlib import redirect_stdout
+import io
+
+class basicLearning():
+
+	def __init__(self,root):
+		## coding or distributing mode ##
+		# make True when distributing and False when coding (especially right before distribution)
+		self.distribute = False 
+		self.osMode = 'windows'
+		## paths ##
+		self.dir_path = os.path.dirname(os.path.realpath(__file__))
+		self.rootPath = self.dir_path+'/dataBasic/'
+		self.pageDataPath = self.rootPath+'pageData/'
+		self.imagePath = self.rootPath+'images/' 
+		self.trickName = "c01s02h02.txt"
+		## copy source file to page data folder ##
+		self.offsetCode = 1000
+		if not self.distribute:
+			file = open(self.dir_path+'/basicPython.py','r')
+			rawCode = file.read()
+			file.close()
+			shiftedCode = '\n'*self.offsetCode
+			shiftedCode = shiftedCode+rawCode
+			file=open(self.pageDataPath+self.trickName,'w')
+			file.write(shiftedCode)
+			file.close()
+		## main window ##
+		version = 'v5.1'
+		self.root = root
+		self.root.title("Leahurst Basic Python "+version)
+		self.minX = 820
+		self.minY = 550
+		sizeWin = str(self.minX)+'x'+str(self.minY)
+		self.root.geometry(sizeWin)
+		self.root.resizable(False,False)
+		if self.osMode == 'windows':
+			# fonts ##
+			self.fontName1 = "MS Serif"
+			self.fontName2 = "Courier"
+			self.fontName3 = "Times New Roman"
+			self.fontName4 = "Comic Sans MS"
+			self.titlePageFont = (self.fontName1,43,'bold')
+			self.titleFont = (self.fontName3,14,'normal')
+			self.subtitleFont=(self.fontName3,14,'normal')
+			self.subsectionFont=(self.fontName3,14,"italic")
+			self.footFont = (self.fontName3,14,'bold')
+			self.codeFont = (self.fontName2,10,'normal')
+			self.outputFont = self.codeFont
+			self.addressFont = self.codeFont
+			self.notesFont = self.addressFont
+			self.buttonFont = (self.fontName1,20,'bold')
+			self.lessonLabelFont = (self.fontName1,16,'bold')
+			self.bigIdeaFont = (self.fontName3,14,'normal')
+			self.explanationFont =(self.fontName3,13,'normal')
+			self.projectFont = (self.fontName3,16,'normal')
+			self.kuFont = (self.fontName3,13,'normal')
+			self.tiFont = self.kuFont
+			self.aFont = self.kuFont
+			self.kuLabelFont = (self.fontName1,16,'bold')
+			self.tiLabelFont = self.kuLabelFont
+			self.aLabelFont = self.kuLabelFont
+			self.noFileFont = (self.fontName4,60,'bold')
+			## colours ##
+			self.buttonColour = '#ccc8c8'
+			self.buttonRelief = 'groove'
+			self.headerbgcolor = '#00005a'
+			self.headerbgcolor ='#002847'
+			self.headerfgcolor = 'white'
+			self.footerbgcolor = self.headerbgcolor
+			self.footerfgcolor = self.headerfgcolor
+			self.kubgcolor='red'
+			self.kufgcolor='white'
+			self.tibgcolor='green'
+			self.tifgcolor='white'
+			self.abgcolor='blue'
+			self.afgcolor = 'white'
+			self.bigIdeaColor = 'blue'
+			self.lastLineColor = '#ff4545'
+			self.nextLineColor = '#00ff00'
+		elif self.osMode=='mac':
+			## fonts ##
+			self.fontName1 = "Courier"
+			self.fontName2 = "Courier"
+			self.fontName3 = "Times New Roman"
+			self.fontName4 = "Comic Sans MS"
+			self.titlePageFont = (self.fontName1,43,'bold')
+			self.titleFont = (self.fontName3,16,'normal')
+			self.subtitleFont=(self.fontName3,16,'normal')
+			self.subsectionFont=(self.fontName3,16,"italic")
+			self.footFont = (self.fontName3,18,'bold')
+			self.codeFont = (self.fontName2,14,'normal')
+			self.outputFont = self.codeFont
+			self.addressFont = (self.fontName2,12,'normal')
+			self.notesFont = self.codeFont
+			self.buttonFont = (self.fontName1,20,'bold')
+			self.lessonLabelFont = (self.fontName1,16,'bold')
+			self.bigIdeaFont = (self.fontName3,22,'normal')
+			self.explanationFont =(self.fontName3,16,'normal')
+			self.projectFont = (self.fontName3,16,'normal')
+			self.kuFont = (self.fontName3,16,'normal')
+			self.tiFont = self.kuFont
+			self.aFont = self.kuFont
+			self.kuLabelFont = (self.fontName1,16,'bold')
+			self.tiLabelFont = self.kuLabelFont
+			self.aLabelFont = self.kuLabelFont
+			self.noFileFont = (self.fontName4,60,'bold')
+			## colours ##
+			self.buttonColour = '#ccc8c8'
+			self.buttonRelief = 'groove'
+			self.headerbgcolor = '#00005a'
+			self.headerbgcolor ='#002847'
+			self.headerfgcolor = 'white'
+			self.footerbgcolor = self.headerbgcolor
+			self.footerfgcolor = 'black'
+			self.kubgcolor='red'
+			self.kufgcolor='white'
+			self.tibgcolor='green'
+			self.tifgcolor='white'
+			self.abgcolor='blue'
+			self.afgcolor = 'white'
+			self.bigIdeaColor = 'blue'
+			self.lastLineColor = 'red'
+			self.nextLineColor = 'green'
+		else:
+			print("ERROR: BAD OS MODE DEFINED")
+		## images ##
+		self.logo = PhotoImage(file=self.rootPath+'logo_transparent.png')
+		self.logo_small =PhotoImage(file=self.rootPath+'logo_small_transparent.png')
+		## bind to key press
+		self.root.bind("<KeyPress>",self.keyPress_callback)
+		## start program ##
+		self.firstCall = 1
+		self.loadProgramData()
+		self.createWidgets()
+		self.tocFrame.pack(expand=True,fill=BOTH)
+		self.whichFrame = 'toc'
+
+		return
+
+	def keyPress_callback(self,event):
+		if event.keysym=="r" or event.keysym=="R":
+			if self.whichFrame == 'lesson':
+				self.backTOC_lesson_callback()
+			elif self.whichFrame == 'example':
+				self.backTOC_example_callback()
+			elif self.whichFrame == 'practice':
+				self.backTOC_practice_callback()
+			elif self.whichFrame == 'project':
+				self.backTOC_project_callback()
+			elif self.whichFrame == 'noFile':
+				self.backTOC_noFile_callback()
+		elif event.keysym=="p" or event.keysym=="P":
+			if self.whichFrame == 'lesson':
+				self.prevPage_lesson_callback()
+			elif self.whichFrame == 'example':
+				self.prevPage_example_callback()
+			elif self.whichFrame == 'practice':
+				self.prevPage_practice_callback()
+			elif self.whichFrame == 'project':
+				self.prevPage_project_callback()
+			elif self.whichFrame == 'noFile':
+				self.prevPage_noFile_callback()
+		elif event.keysym=="n" or event.keysym=="N":
+			if self.whichFrame == 'lesson':
+				self.nextPage_lesson_callback()
+			elif self.whichFrame == 'example':
+				self.nextPage_example_callback()
+			elif self.whichFrame == 'practice':
+				self.nextPage_practice_callback()
+			elif self.whichFrame == 'project':
+				self.nextPage_project_callback()
+			elif self.whichFrame=='toc':
+				self.tocFrame.forget()
+				if self.loadID[-3]=='p':
+					self.loadLesson()
+				elif self.loadID[-3]=='e':
+					self.loadExample()
+				elif self.loadID[-3]=='h':
+					self.loadPractice()
+				elif self.loadID[-3]=='m':
+					self.loadProject()
+				else:
+					print("ERROR")
+
+
+
+	def createWidgets(self):
+		self.createTOC()
+		self.createLESSON()
+		self.createEXAMPLE()
+		self.createPRACTICE()
+		self.createNOFILE()
+		self.createPROJECT()
+		return
+
+############### NO FILE METHODS ############################################
+	def createNOFILE(self):
+		## create widgets ##
+		self.noFileFrame = ttk.Frame(root)
+		self.head_noFile = ttk.Frame(self.noFileFrame)
+		self.body_noFile = ttk.Frame(self.noFileFrame)
+		self.foot_noFile = ttk.Frame(self.noFileFrame)
+		self.backTOC_noFile = Button(self.foot_noFile)
+		self.prevPage_noFile = Button(self.foot_noFile)
+		self.nextPage_noFile = Button(self.foot_noFile)
+		self.label_noFile = ttk.Label(self.body_noFile)
+		if self.osMode=='windows':
+			self.logo_noFile = ttk.Label(self.head_noFile)
+			self.title_noFile = ttk.Label(self.head_noFile)
+			self.subtitle_noFile = ttk.Label(self.head_noFile)
+			self.subsection_noFile = ttk.Label(self.head_noFile)
+		elif self.osMode=='mac':
+			self.logo_noFile = Label(self.head_noFile)
+			self.title_noFile = Label(self.head_noFile)
+			self.subtitle_noFile = Label(self.head_noFile)
+			self.subsection_noFile = Label(self.head_noFile)
+		else:
+			print("ERROR: BAD OS MODE DEFINED")
+		## setup widgets 
+		self.noFileFrame.rowconfigure(0,weight=0)
+		self.noFileFrame.rowconfigure(1,weight=1)
+		self.noFileFrame.rowconfigure(2,weight=0)
+		self.noFileFrame.columnconfigure(0,weight=1)
+		self.head_noFile.grid(row=0,column=0,stick='nwse')
+		self.body_noFile.grid(row=1,column=0,stick='nwse')
+		self.foot_noFile.grid(row=2,column=0,stick='nwse')
+
+		self.head_noFile.rowconfigure(0,weight=1)
+		self.head_noFile.rowconfigure(1,weight=1)
+		self.head_noFile.rowconfigure(2,weight=1)
+		self.head_noFile.columnconfigure(0,weight=0)
+		self.head_noFile.columnconfigure(1,weight=1)
+		
+		self.foot_noFile.rowconfigure(0,weight=1)
+		self.foot_noFile.columnconfigure(0,weight=1)
+		self.foot_noFile.columnconfigure(1,weight=1)
+		self.foot_noFile.columnconfigure(2,weight=1)
+
+		# head
+		self.head_noFile.config(relief='ridge')
+		self.logo_noFile.grid(row=0,column=0,rowspan=3,stick='nsew')
+		self.title_noFile.grid(row=0,column=1,stick='nwse')
+		self.subtitle_noFile.grid(row=1,column=1,stick='nwse')
+		self.subsection_noFile.grid(row=2,column=1,stick='nwse')
+		self.logo_noFile.config(image=self.logo_small,background=self.headerbgcolor)
+		self.title_noFile.config(font=self.titleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subtitle_noFile.config(font=self.subtitleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subsection_noFile.config(font=self.subsectionFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+
+		# body
+		self.label_noFile.pack(expand=True,fill=BOTH)
+		self.label_noFile.config(text="¯\\_(ツ)_/¯\nFILE NOT FOUND",font=self.noFileFont,justify = 'center',anchor='center')
+		# foot
+		self.backTOC_noFile.grid(row=0,column=0,stick='nswe')
+		self.prevPage_noFile.grid(row=0,column=1,stick='nswe')
+		self.nextPage_noFile.grid(row=0,column=2,stick='nswe')
+		if self.osMode=='windows':
+			self.backTOC_noFile.config(text="Return to T.O.C. (r)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_noFile.config(text="Previous Page (p)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_noFile.config(text="Next Page (n)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief,state='disabled')
+		elif self.osMode=='mac':
+			self.backTOC_noFile.config(text="Return to T.O.C. (r)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_noFile.config(text="Previous Page (p)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_noFile.config(text="Next Page (n)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief,state='disabled')
+		else:
+			print("ERROR: BAD OS MODE DEFINED")		
+		self.backTOC_noFile.config(command=self.backTOC_noFile_callback)
+		self.prevPage_noFile.config(command=self.prevPage_noFile_callback)
+
+	def loadNOFILE(self):
+		self.noFileFrame.pack(expand=True,fill=BOTH)
+		self.whichFrame = 'nofile'
+		ID = self.loadID
+		if ID[6]=='p':
+			data = self.lessonData[ID]
+		elif ID[6]=='e':
+			data = self.exampleData[ID]
+		elif ID[6]=='h':
+			data = self.practiceData[ID]
+		elif ID[6]=='m':
+			data = self.projectData[ID]
+		else:
+			print('ERROR')
+		self.title_noFile.config(text = data['chapter'])
+		self.subtitle_noFile.config(text=data['section'])
+		self.subsection_noFile.config(text=data['subsection'])
+		self.noFileFrame.pack(expand=True,fill=BOTH)
+		self.whichFrame = 'noFile'
+		return
+
+	def prevPage_noFile_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		self.noFileFrame.forget()
+		if ind==0:
+			self.tocFrame.pack(expand=True,fill=BOTH)
+			self.prepareTOC()
+		else:
+			self.loadID = self.pageID[ind-1]
+			self.loadPage_callback()
+
+	def backTOC_noFile_callback(self):
+		self.noFileFrame.forget()
+		self.tocFrame.pack(expand=True,fill=BOTH)
+		self.prepareTOC()
+
+
+
+############################################################################
+############### LESSON FRAME METHODS #######################################
+	def createLESSON(self):
+		## create widgets ##
+		self.lessonFrame = ttk.Frame(self.root)
+		self.head_lesson = ttk.Frame(self.lessonFrame)
+		self.body_lesson = ttk.Frame(self.lessonFrame)
+		self.foot_lesson = ttk.Frame(self.lessonFrame)
+		self.image_lesson = ttk.Label(self.body_lesson)
+		if self.osMode=='windows':
+			self.logo_lesson = ttk.Label(self.head_lesson)
+			self.title_lesson = ttk.Label(self.head_lesson)
+			self.subtitle_lesson = ttk.Label(self.head_lesson)
+			self.subsection_lesson = ttk.Label(self.head_lesson)
+		elif self.osMode=='mac':
+			self.logo_lesson = Label(self.head_lesson)
+			self.title_lesson = Label(self.head_lesson)
+			self.subtitle_lesson = Label(self.head_lesson)
+			self.subsection_lesson = Label(self.head_lesson)
+		else:
+			print("ERROR: BAD OS MODE DEFINED")
+		self.bigIdea_lesson = LabelFrame(self.body_lesson)
+		self.explanation_lesson = LabelFrame(self.body_lesson)
+		self.backTOC_lesson = Button(self.foot_lesson)
+		self.prevPage_lesson = Button(self.foot_lesson)
+		self.nextPage_lesson = Button(self.foot_lesson)
+		self.bigIdea_text = ttk.Label(self.bigIdea_lesson)
+		self.explanation_text = ttk.Label(self.explanation_lesson)
+
+		## setup widgets 
+		self.lessonFrame.rowconfigure(0,weight=0)
+		self.lessonFrame.rowconfigure(1,weight=0)
+		self.lessonFrame.rowconfigure(2,weight=1)
+		self.lessonFrame.columnconfigure(0,weight=1)
+		self.head_lesson.grid(row=0,column=0,stick='nwse')
+		self.body_lesson.grid(row=1,column=0,stick='nwse')
+		self.foot_lesson.grid(row=2,column=0,stick='nwse')
+
+		self.head_lesson.rowconfigure(0,weight=1)
+		self.head_lesson.rowconfigure(1,weight=1)
+		self.head_lesson.rowconfigure(2,weight=1)
+		self.head_lesson.columnconfigure(0,weight=0)
+		self.head_lesson.columnconfigure(1,weight=1)
+	
+		self.body_lesson.columnconfigure(1,weight=1)
+		self.body_lesson.rowconfigure(0,weight=1)
+		self.body_lesson.rowconfigure(1,weight=1)
+		
+		self.foot_lesson.rowconfigure(0,weight=1)
+		self.foot_lesson.columnconfigure(0,weight=1)
+		self.foot_lesson.columnconfigure(1,weight=1)
+		self.foot_lesson.columnconfigure(2,weight=1)
+
+		# head
+		self.head_lesson.config(relief='ridge')
+		self.logo_lesson.grid(row=0,column=0,rowspan=3,stick='nsew')
+		self.title_lesson.grid(row=0,column=1,stick='nwse')
+		self.subtitle_lesson.grid(row=1,column=1,stick='nwse')
+		self.subsection_lesson.grid(row=2,column=1,stick='nwse')
+		self.logo_lesson.config(image=self.logo_small,background=self.headerbgcolor)
+		self.title_lesson.config(font=self.titleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subtitle_lesson.config(font=self.subtitleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subsection_lesson.config(font=self.subsectionFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+
+		# body 
+		self.image_lesson.grid(row=0,column=0,rowspan=2,stick='nsew')
+		self.image_lesson.config(relief='solid')
+		self.bigIdea_lesson.grid(row=0,column=1,stick='nsew')
+		self.explanation_lesson.grid(row=1,column=1,stick='nsew')
+		self.bigIdea_text.pack(fill=BOTH,expand=True)
+		self.explanation_text.pack(fill=BOTH,expand=True)
+		self.bigIdea_lesson.config(font=self.lessonLabelFont)
+		self.explanation_lesson.config(font=self.lessonLabelFont)
+		self.bigIdea_lesson.config(text="Big Idea",labelanchor='n')
+		self.explanation_lesson.config(text="Explanation",labelanchor='n')
+		self.bigIdea_text.config(font=self.bigIdeaFont,wraplength=385,justify='left',anchor='center')
+		self.explanation_text.config(font=self.explanationFont,justify='left',wraplength=385,anchor='center')
+
+		# foot
+		self.backTOC_lesson.grid(row=0,column=0,stick='nswe')
+		self.prevPage_lesson.grid(row=0,column=1,stick='nswe')
+		self.nextPage_lesson.grid(row=0,column=2,stick='nswe')
+		if self.osMode=='windows':
+			self.backTOC_lesson.config(text="Return to T.O.C. (r)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_lesson.config(text="Previous Page (p)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_lesson.config(text="Next Page (n)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+		elif self.osMode=='mac':
+			self.backTOC_lesson.config(text="Return to T.O.C. (r)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_lesson.config(text="Previous Page (p)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_lesson.config(text="Next Page (n)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+		else:
+			print("ERROR: BAD OS MODE DEFINED")		
+		self.backTOC_lesson.config(command=self.backTOC_lesson_callback)
+		self.nextPage_lesson.config(command=self.nextPage_lesson_callback)
+		self.prevPage_lesson.config(command=self.prevPage_lesson_callback)
+
+
+	def prevPage_lesson_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		self.lessonFrame.forget()
+		if ind==0:
+			self.tocFrame.pack(expand=True,fill=BOTH)
+			self.prepareTOC()
+		else:
+			self.loadID = self.pageID[ind-1]
+			self.loadPage_callback()
+
+	def nextPage_lesson_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		nextID = self.pageID[ind+1]
+		self.loadID = nextID
+		self.lessonFrame.forget()
+		self.loadPage_callback()
+
+	def backTOC_lesson_callback(self):
+		self.lessonFrame.forget()
+		self.tocFrame.pack(expand=True,fill=BOTH)
+		self.prepareTOC()
+
+	def loadLesson(self):
+		ID = self.loadID
+		if not self.lessonData[ID]['fileExists']:
+			self.loadNOFILE()
+		else:
+			data = self.lessonData[ID]
+			self.title_lesson.config(text = data['chapter'])
+			self.subtitle_lesson.config(text=data['section'])
+			self.subsection_lesson.config(text=data['subsection'])
+			self.image_lesson.config(image=data['img'])
+			self.bigIdea_text.config(text=data['bigIdea'].strip('\n'),foreground=self.bigIdeaColor)
+			self.explanation_text.config(text=data['explanation'])
+			self.lessonFrame.pack(expand=True,fill=BOTH)
+			self.whichFrame = 'lesson'
+		return
+############################################################################		
+############### EXAMPLE FRAME METHODS ######################################
+	def createEXAMPLE(self):
+		# create widgets
+		self.exampleFrame = ttk.Frame(self.root)
+		self.head_example = ttk.Frame(self.exampleFrame)
+		self.body_example = ttk.Frame(self.exampleFrame)
+		self.foot_example = ttk.Frame(self.exampleFrame)
+		if self.osMode=='windows':
+			self.logo_example = ttk.Label(self.head_example)
+			self.title_example = ttk.Label(self.head_example)
+			self.subtitle_example = ttk.Label(self.head_example)
+			self.subsection_example = ttk.Label(self.head_example)
+		elif self.osMode=='mac':
+			self.logo_example = Label(self.head_example)
+			self.title_example = Label(self.head_example)
+			self.subtitle_example = Label(self.head_example)
+			self.subsection_example = Label(self.head_example)
+		else:
+			print('ERROR: BAD OS MODE DEFINED')
+		self.codeFrame = ttk.Labelframe(self.body_example,text='SOURCE CODE')
+		self.outputFrame = ttk.LabelFrame(self.body_example,text='SCREEN OUTPUT')
+		self.addressFrame = ttk.LabelFrame(self.body_example,text='SYMBOL TABLE')
+		self.flowFrame = ttk.LabelFrame(self.body_example,text='Program Counter')
+		self.notesFrame = ttk.LabelFrame(self.body_example,text='NOTES')
+		self.codeText = Text(self.codeFrame)
+		self.outputText = Text(self.outputFrame)
+		self.varFrame = ttk.LabelFrame(self.addressFrame,text='Symbol Name')
+		self.valFrame = ttk.LabelFrame(self.addressFrame,text='Value')
+		self.varData = Text(self.varFrame)
+		self.valData = Text(self.valFrame)
+		self.flowControl = ttk.Spinbox(self.flowFrame)
+		self.notesText = Text(self.notesFrame)
+		self.backTOC_example = Button(self.foot_example)
+		self.prevPage_example = Button(self.foot_example)
+		self.nextPage_example = Button(self.foot_example)
+
+		# setup widgets
+		self.exampleFrame.rowconfigure(0,weight=0)
+		self.exampleFrame.rowconfigure(1,weight=0)
+		self.exampleFrame.rowconfigure(2,weight=1)
+		self.exampleFrame.columnconfigure(0,weight=1)
+		self.head_example.grid(row=0,column=0,stick='nwse')
+		self.body_example.grid(row=1,column=0,stick='nwse')
+		self.foot_example.grid(row=2,column=0,stick='nwse')
+		self.head_example.rowconfigure(0,weight=1)
+		self.head_example.rowconfigure(1,weight=1)
+		self.head_example.rowconfigure(2,weight=1)
+		self.head_example.columnconfigure(0,weight=0)
+		self.head_example.columnconfigure(1,weight=1)
+
+		self.body_example.columnconfigure(1,weight=1)
+
+		self.foot_example.rowconfigure(0,weight=1)
+		self.foot_example.columnconfigure(0,weight=1)
+		self.foot_example.columnconfigure(1,weight=1)
+		self.foot_example.columnconfigure(2,weight=1)
+
+		# head
+		self.head_example.config(relief='ridge')
+		self.logo_example.grid(row=0,column=0,rowspan=3,stick='nswe')
+		self.title_example.grid(row=0,column=1,stick='nswe')
+		self.subtitle_example.grid(row=1,column=1,stick='nswe')
+		self.subsection_example.grid(row=2,column=1,stick='nswe')
+		self.logo_example.config(image=self.logo_small,background=self.headerbgcolor,foreground=self.headerfgcolor)
+		self.title_example.config(font=self.titleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subtitle_example.config(font=self.subtitleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subsection_example.config(font=self.subsectionFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+
+		# body 
+		self.body_example.config(pad=0)
+		self.codeFrame.grid(row=0,column=0,rowspan=4,stick='nw')
+		self.outputFrame.grid(row=4,column=0,rowspan=4,stick='nw')
+		self.flowFrame.grid(row=3,column=1,rowspan=1,stick='nw')
+		self.notesFrame.grid(row=4,column=1,rowspan=3,stick='nw')
+		self.addressFrame.grid(row=0,column=1,rowspan=3,stick='nw')
+		self.codeFrame.config(labelanchor='n')	
+		self.outputFrame.config(labelanchor='n')	
+		self.addressFrame.config(labelanchor='n')
+		self.notesFrame.config(labelanchor='n')		
+		self.varFrame.config(labelanchor='nw')
+		self.valFrame.config(labelanchor='nw')	
+		self.codeText.pack()
+		self.outputText.pack()
+		self.varFrame.grid(row=0,column=0)
+		self.valFrame.grid(row=0,column=1,columnspan=2)
+		self.varData.pack()
+		self.valData.pack()
+		self.flowControl.pack()
+		self.notesText.pack()
+
+		# foot
+		self.backTOC_example.grid(row=0,column=0,stick='nswe')
+		self.prevPage_example.grid(row=0,column=1,stick='nswe')
+		self.nextPage_example.grid(row=0,column=2,stick='nswe')
+		if self.osMode=='windows':
+			self.backTOC_example.config(text="Return to T.O.C. (r)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_example.config(text="Previous Page (p)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_example.config(text="Next Page (n)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			hspecial = 11
+		elif self.osMode=='mac':
+			self.backTOC_example.config(text="Return to T.O.C. (r)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_example.config(text="Previous Page (p)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_example.config(text="Next Page (n)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			hspecial = 12
+		else:
+			print('ERROR: BAD OS MODE DEFINED')
+		self.backTOC_example.config(command=self.backTOC_example_callback)
+
+		## CODE FRAME ##
+		self.codeText.config(height=13,width=52)
+		self.codeText.config(font=self.codeFont)
+		## OUTPUT FRAME ##
+		self.outputText.config(height=hspecial,width=52)
+		self.outputText.config(font=self.outputFont)
+		## ADDRESS FRAME ##
+		self.varData.config(width=10,height=10)
+		self.varData.config(wrap='word')
+		self.valData.config(width=36,height=10)
+		self.valData.config(wrap='word')
+		self.varData.config(font=self.addressFont)
+		self.valData.config(font=self.addressFont)
+		## FLOW FRAME ##
+		#self.flowFrame.config(width=60)
+		self.flowControl.config(state='readonly',width=3)
+		## NOTES FRAME ##
+		self.notesText.config(height=hspecial,width = 48,wrap='word')
+		self.notesText.config(font=self.notesFont)
+		# callbacks
+		self.nextPage_example.config(command=self.nextPage_example_callback)
+		self.prevPage_example.config(command=self.prevPage_example_callback)
+
+	def prevPage_example_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		self.exampleFrame.forget()
+		if ind==0:
+			self.tocFrame.pack(expand=True,fill=BOTH)
+			self.prepareTOC()
+		else:
+			self.loadID = self.pageID[ind-1]
+			self.loadPage_callback()
+
+	def nextPage_example_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		nextID = self.pageID[ind+1]
+		self.loadID = nextID
+		self.exampleFrame.forget()
+		self.loadPage_callback()
+
+	def backTOC_example_callback(self):
+		self.exampleFrame.forget()
+		self.tocFrame.pack(expand=True,fill=BOTH)
+		self.prepareTOC()
+
+	def loadExample(self):
+		ID = self.loadID
+		if not self.exampleData[ID]['fileExists']:
+			self.loadNOFILE()
+		else:
+			self.codeText.config(state='normal')
+			self.lineNum=list()
+			self.varDict=list()
+			self.event=list()
+			self.args=list()
+			self.codeText.delete('1.0', 'end')
+			self.outputText.delete('1.0', 'end')
+			self.varData.delete('1.0', 'end')
+			self.valData.delete('1.0', 'end')
+			self.notesText.delete('1.0', 'end')
+			self.flowControl.set(1)
+			data = self.exampleData[ID]
+			self.exampleFrame.pack(expand=True,fill = BOTH)
+			self.title_example.config(text = data['chapter'])
+			self.subtitle_example.config(text=data['section'])
+			self.subsection_example.config(text=data['subsection'])
+			self.analyzeCode(self.funcDict[ID])
+			valList = list(range(1,len(self.lineNum)-1))
+			valList.reverse()
+			self.flowControl.config(values=valList,increment=-1.0)
+			self.flowControl.config(command=self.changeIndex)
+			self.loadCode()
+			self.captureOutput(self.funcDict[ID])
+			self.buildCapList()
+			self.changeIndex()
+			self.codeText.config(state='disabled')
+			self.whichFrame = 'example'
+		return
+
+	def analyzeCode(self,foo):
+		def trace_callback(frame,event,args):
+			tempDict = dict(frame.f_locals)
+			if 'self' in tempDict:
+				del tempDict['self']
+			self.varDict.append(tempDict)
+			self.lineNum.append(frame.f_lineno)
+			self.event.append(event)
+			self.args.append(args)
+
+			if event=="return":
+				self.lastCalled = frame.f_back.f_lineno
+			if self.event[len(self.lineNum)-1]=="return":
+				self.lineNum[-1] = self.lastCalled
+
+			return trace_callback
+
+		sys.settrace(trace_callback)
+		foo()
+		sys.settrace(None)
+		path = self.pageDataPath+'/'+self.trickName # hopefully this will trick the students
+		file = open(path,'r')
+		rawCode = file.readlines()
+		file.close()
+		rawCode = rawCode[self.offsetCode:]
+		codeInds = list(range(self.lineNum[1]-1,self.lineNum[-2]))
+		self.code = list()
+		for i in codeInds:
+			self.code.append(rawCode[i])
+
+		for i in range(len(self.lineNum)):
+			self.lineNum[i]=self.lineNum[i]-codeInds[0]
+
+	def changeIndex(self):
+		ID = self.loadID
+		self.outputText.config(state='normal')
+		self.varData.config(state='normal')
+		self.valData.config(state='normal')
+		self.notesText.config(state='normal')
+		val = self.lineNum[int(self.flowControl.get())]
+		val = int(val)
+		if int(self.flowControl.get())==1:
+			lastVal = 100
+			self.codeText.tag_add(str(1),str(1)+'.0',str(1)+'.end') 
+			self.codeText.tag_configure(str(1),background=self.nextLineColor)
+			for i in range(2,len(self.code)+1):
+				self.codeText.tag_add(str(i),str(i)+'.0',str(i)+'.end') 
+				self.codeText.tag_configure(str(i),background='')
+		else:
+			lastVal = self.lineNum[int(self.flowControl.get())-1]
+			if val>lastVal:
+				for i in range(1,lastVal):
+					self.codeText.tag_add(str(i),str(i)+'.0',str(i)+'.end') 
+					self.codeText.tag_configure(str(i),background='')
+				self.codeText.tag_add(str(lastVal),str(lastVal)+'.0',str(lastVal)+'.end') 
+				self.codeText.tag_configure(str(lastVal),background=self.lastLineColor)	
+				for i in range(lastVal+1,val):	
+					self.codeText.tag_add(str(i),str(i)+'.0',str(i)+'.end') 
+					self.codeText.tag_configure(str(i),background='')
+				self.codeText.tag_add(str(val),str(val)+'.0',str(val)+'.end') 
+				self.codeText.tag_configure(str(val),background=self.nextLineColor)	
+				for i in range(val+1,len(self.code)+1):
+					self.codeText.tag_add(str(i),str(i)+'.0',str(i)+'.end') 
+					self.codeText.tag_configure(str(i),background='')	
+			else:
+				for i in range(1,val):
+					self.codeText.tag_add(str(i),str(i)+'.0',str(i)+'.end') 
+					self.codeText.tag_configure(str(i),background='')
+				self.codeText.tag_add(str(val),str(val)+'.0',str(val)+'.end') 
+				self.codeText.tag_configure(str(val),background=self.nextLineColor)	
+				for i in range(val+1,lastVal):	
+					self.codeText.tag_add(str(i),str(i)+'.0',str(i)+'.end') 
+					self.codeText.tag_configure(str(i),background='')
+				self.codeText.tag_add(str(lastVal),str(lastVal)+'.0',str(lastVal)+'.end') 
+				self.codeText.tag_configure(str(lastVal),background=self.lastLineColor)	
+				for i in range(lastVal+1,len(self.code)+1):
+					self.codeText.tag_add(str(i),str(i)+'.0',str(i)+'.end') 
+					self.codeText.tag_configure(str(i),background='')	
+		#print("Val: {}, LastVal: {}".format(val,lastVal))
+		dictList = list(self.varDict[int(self.flowControl.get())].items())
+		self.varData.delete('1.0','end')
+		self.valData.delete('1.0','end')
+		for i in range(len(dictList)):
+			self.varData.insert(str(i+1)+'.0',str(dictList[i][0])+'\n')
+			value = str(dictList[i][1])
+			if value[:9]=="<function":
+				ind = value.find("<locals>.")+len("<locals>.")
+				value = value[:9]+" "+value[ind:]
+			self.valData.insert(str(i+1)+'.0',value+'\n')
+		
+		self.outputText.delete('1.0','end')
+		for i in range(int(self.flowControl.get())):
+			if self.captureList[i]!='STEP!!!STEP':
+				self.outputText.insert('end',self.captureList[i]+'\n')
+		self.outputText.config(state='disabled')
+		self.varData.config(state='disabled')
+		self.valData.config(state='disabled')
+
+		val = int(self.flowControl.get())
+		self.notesText.delete('1.0','end')
+		if val in self.exampleData[ID]:
+			self.notesText.insert('1.0',self.exampleData[ID][val])
+		self.notesText.config(state='disabled')
+
+	def captureOutput(self,foo):
+		f = io.StringIO()
+		with redirect_stdout(f):
+			def capture_callback(frame,event,args):
+				print("STEP!!!STEP")
+				return capture_callback
+			sys.settrace(capture_callback)
+			foo()
+			sys.settrace(None)
+		self.capture = f.getvalue()
+
+
+	def buildCapList(self):
+		ind = 1
+		string = self.capture
+		captureList = list()
+		while ind!=-1:
+			ind = string.find('\n')
+			if ind!=-1:
+				captureList.append(string[:ind])
+			else:
+				break
+			string = string[ind+1:]
+
+		self.captureList = list()
+		for i in range(len(captureList)-1):
+			if captureList[i+1]=="STEP!!!STEP":
+				self.captureList.append(captureList[i])
+
+
+	def replaceTabs(self,string):
+		ind = 1
+		while ind!=-1:
+			ind = string.find('\t')
+			if ind==-1:
+				break
+			string = string[:ind]+'    '+string[ind+1:]
+		return string
+
+	def loadCode(self):
+		for i in range(len(self.code)):
+			ind = str(i+1)+".0"
+			string = self.code[i][2:]
+			string = self.replaceTabs(string)
+			if i!=len(self.code)-1:
+				string = "{:02d}  {}".format(i+1,string)
+			else:
+				string = "{:02d}  {}".format(i+1,"#EOF")
+			self.codeText.insert(ind,string)
+
+############################################################################
+############### PRACTICE FRAME METHODS ####################################
+	def createPRACTICE(self):
+		## create widgets ##
+		self.practiceFrame = ttk.Frame(self.root)
+		self.head_practice = ttk.Frame(self.practiceFrame)
+		self.body_practice = ttk.Frame(self.practiceFrame)
+		self.foot_practice = ttk.Frame(self.practiceFrame)
+		if self.osMode=='windows':
+			self.logo_practice = ttk.Label(self.head_practice)
+			self.title_practice = ttk.Label(self.head_practice)
+			self.subtitle_practice = ttk.Label(self.head_practice)
+			self.subsection_practice = ttk.Label(self.head_practice)
+			wid=100
+		elif self.osMode=='mac':
+			self.logo_practice = Label(self.head_practice)
+			self.title_practice = Label(self.head_practice)
+			self.subtitle_practice = Label(self.head_practice)
+			self.subsection_practice = Label(self.head_practice)
+			wid=110
+		else:
+			print("ERROR: BAD OS MODE DEFINED")
+		self.kuFrame = LabelFrame(self.body_practice,text="Knowledge and Understanding")
+		self.tiFrame = LabelFrame(self.body_practice,text="Thinking and Inquiry")
+		self.aFrame = LabelFrame(self.body_practice,text="Application and Communication")
+		self.kuText = Text(self.kuFrame)
+		self.tiText = Text(self.tiFrame)
+		self.aText =  Text(self.aFrame)
+
+		self.backTOC_practice= Button(self.foot_practice)
+		self.prevPage_practice = Button(self.foot_practice)
+		self.nextPage_practice= Button(self.foot_practice)
+
+		## setup widgets 
+		self.practiceFrame.rowconfigure(0,weight=0)
+		self.practiceFrame.rowconfigure(1,weight=1)
+		self.practiceFrame.rowconfigure(2,weight=0)
+		self.practiceFrame.columnconfigure(0,weight=1)
+		self.head_practice.grid(row=0,column=0,stick='nwse')
+		self.body_practice.grid(row=1,column=0,stick='nwse')
+		self.foot_practice.grid(row=2,column=0,stick='nwse')
+
+		self.head_practice.rowconfigure(0,weight=1)
+		self.head_practice.rowconfigure(1,weight=1)
+		self.head_practice.rowconfigure(2,weight=1)
+		self.head_practice.columnconfigure(0,weight=1)
+		self.head_practice.columnconfigure(1,weight=1)
+
+	
+		self.body_practice.rowconfigure(0,weight=1)
+		self.body_practice.rowconfigure(1,weight=1)
+		self.body_practice.rowconfigure(2,weight=1)
+		self.body_practice.columnconfigure(0,weight=1)
+		
+		self.foot_practice.rowconfigure(0,weight=1)
+		self.foot_practice.columnconfigure(0,weight=1)
+		self.foot_practice.columnconfigure(1,weight=1)
+		self.foot_practice.columnconfigure(2,weight=1)
+
+		# head
+		self.head_practice.config(relief='ridge')
+		self.head_practice.columnconfigure(0,weight=0)
+		self.logo_practice.grid(row=0,column=0,rowspan=3,stick='nsw')
+		self.title_practice.grid(row=0,column=1,stick='nwse')
+		self.subtitle_practice.grid(row=1,column=1,stick='nwse')
+		self.subsection_practice.grid(row=2,column=1,stick='nwse')
+		self.logo_practice.config(image=self.logo_small,background=self.headerbgcolor,foreground=self.headerfgcolor)
+		self.title_practice.config(font=self.titleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subtitle_practice.config(font=self.subtitleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subsection_practice.config(font=self.subsectionFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+
+		# body 
+		self.kuFrame.grid(row=0,column=0,stick='nwse')
+		self.tiFrame.grid(row=1,column=0,stick='nwse')
+		self.aFrame.grid(row=2,column=0,stick='nwse')
+		self.kuFrame.config(background=self.kubgcolor,foreground=self.kufgcolor)
+		self.tiFrame.config(background=self.tibgcolor,foreground=self.tifgcolor)
+		self.aFrame.config(background=self.abgcolor,foreground=self.afgcolor)
+		self.kuText.pack(expand=True,fill='y')
+		self.tiText.pack(expand=True,fill='y')
+		self.aText.pack(expand=True,fill='y')
+
+		self.kuText.config(wrap='word',width=wid)
+		self.tiText.config(wrap='word',width=wid)
+		self.aText.config(wrap='word',width=wid)
+		self.kuFrame.config(labelanchor='n',font=self.kuLabelFont)
+		self.tiFrame.config(labelanchor='n',font=self.tiLabelFont)
+		self.aFrame.config(labelanchor='n',font=self.aLabelFont)
+		# foot
+		self.backTOC_practice.grid(row=0,column=0,stick='nswe')
+		self.prevPage_practice.grid(row=0,column=1,stick='nswe')
+		self.nextPage_practice.grid(row=0,column=2,stick='nswe')
+		if self.osMode=='windows':
+			self.backTOC_practice.config(text="Return to T.O.C. (r)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_practice.config(text="Previous Page (p)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_practice.config(text="Next Page (n)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+		elif self.osMode=='mac':
+			self.backTOC_practice.config(text="Return to T.O.C. (r)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_practice.config(text="Previous Page (p)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_practice.config(text="Next Page (n)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+		else:
+			print("ERROR: BAD OS MODE DEFINED")
+		# callbacks
+		self.backTOC_practice.config(command=self.backTOC_practice_callback)
+		self.nextPage_practice.config(command=self.nextPage_practice_callback)
+		self.prevPage_practice.config(command=self.prevPage_practice_callback)
+
+	def prevPage_practice_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		self.practiceFrame.forget()
+		if ind==0:
+			self.tocFrame.pack(expand=True,fill=BOTH)
+			self.prepareTOC()
+		else:
+			self.loadID = self.pageID[ind-1]
+			self.loadPage_callback()
+
+	def nextPage_practice_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		nextID = self.pageID[ind+1]
+		self.loadID = nextID
+		self.practiceFrame.forget()
+		self.loadPage_callback()
+
+	def loadPractice(self):
+		ID = self.loadID
+		data = self.practiceData[ID]
+		if not self.practiceData[ID]['fileExists']:
+			self.loadNOFILE()
+		else:
+			self.kuText.config(state='normal')
+			self.tiText.config(state='normal')
+			self.aText.config(state='normal')
+			self.practiceFrame.pack(expand=True,fill = BOTH)
+			self.title_practice.config(text = data['chapter'])
+			self.subtitle_practice.config(text=data['section'])
+			self.subsection_practice.config(text=data['subsection'])
+			# ku
+			self.kuText.delete('1.0','end')
+			self.kuText.insert('1.0',self.practiceData[ID]['KU'])
+			self.kuText.tag_add('kutag','1.0','end')
+			self.kuText.tag_configure('kutag',font=self.kuFont)
+			self.kuText.config(height=self.practiceData[ID]['kuHeight'])
+			# ti
+			self.tiText.delete('1.0','end')
+			self.tiText.insert('1.0',self.practiceData[ID]['TI'])
+			self.tiText.tag_add('titag','1.0','end')
+			self.tiText.tag_configure('titag',font=self.tiFont)
+			self.tiText.config(height=self.practiceData[ID]['tiHeight'])
+			# a 
+			self.aText.delete('1.0','end')
+			self.aText.insert('1.0',self.practiceData[ID]['A'])
+			self.aText.tag_add('atag','1.0','end')
+			self.aText.tag_configure('atag',font=self.aFont)
+			self.aText.config(height=self.practiceData[ID]['aHeight'])
+			## disable widgets
+			self.kuText.config(state='disabled')
+			self.tiText.config(state='disabled')
+			self.aText.config(state='disabled')
+			self.whichFrame = 'practice'
+		return
+
+	def backTOC_practice_callback(self):
+		self.practiceFrame.forget()
+		self.tocFrame.pack(expand=True,fill=BOTH)
+		self.prepareTOC()
+############################################################################
+############### PROJECT FRAME METHODS ######################################
+	def createPROJECT(self):
+		## create widgets ##
+		self.projectFrame = ttk.Frame(self.root)
+		self.head_project = ttk.Frame(self.projectFrame)
+		self.body_project = ttk.Frame(self.projectFrame)
+		self.foot_project = ttk.Frame(self.projectFrame)
+		if self.osMode=='windows':
+			self.logo_project = ttk.Label(self.head_project)
+			self.title_project = ttk.Label(self.head_project)
+			self.subtitle_project = ttk.Label(self.head_project)
+			self.subsection_project = ttk.Label(self.head_project)
+			wid = 65
+		elif self.osMode=='mac':
+			self.logo_project = Label(self.head_project)
+			self.title_project = Label(self.head_project)
+			self.subtitle_project = Label(self.head_project)
+			self.subsection_project = Label(self.head_project)
+			wid = 80
+		else:
+			print("ERROR: BAD OS MODE DEFINED")
+		self.projectText = ttk.Label(self.body_project)
+		self.backTOC_project= Button(self.foot_project)
+		self.prevPage_project = Button(self.foot_project)
+		self.nextPage_project= Button(self.foot_project)
+
+		## setup widgets 
+		self.projectFrame.rowconfigure(0,weight=0)
+		self.projectFrame.rowconfigure(1,weight=1)
+		self.projectFrame.rowconfigure(2,weight=0)
+		self.projectFrame.columnconfigure(0,weight=1)
+		self.head_project.grid(row=0,column=0,stick='nwse')
+		self.body_project.grid(row=1,column=0,stick='nwse')
+		self.foot_project.grid(row=2,column=0,stick='nwse')
+
+		self.head_project.rowconfigure(0,weight=1)
+		self.head_project.rowconfigure(1,weight=1)
+		self.head_project.rowconfigure(2,weight=1)
+		self.head_project.columnconfigure(0,weight=0)
+		self.head_project.columnconfigure(1,weight=1)
+	
+		self.body_project.rowconfigure(0,weight=1)
+		self.body_project.columnconfigure(0,weight=1)
+		
+		self.foot_project.rowconfigure(0,weight=1)
+		self.foot_project.columnconfigure(0,weight=1)
+		self.foot_project.columnconfigure(1,weight=1)
+		self.foot_project.columnconfigure(2,weight=1)
+
+		# head
+		self.head_project.config(relief='ridge')
+		self.logo_project.grid(row=0,column=0,rowspan=3,stick='nws')
+		self.title_project.grid(row=0,column=1,stick='nwse')
+		self.subtitle_project.grid(row=1,column=1,stick='nwse')
+		self.subsection_project.grid(row=2,column=1,stick='nwse')
+		self.logo_project.config(image=self.logo_small,background=self.headerbgcolor)
+		self.title_project.config(font=self.titleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subtitle_project.config(font=self.subtitleFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+		self.subsection_project.config(font=self.subsectionFont,background=self.headerbgcolor,foreground=self.headerfgcolor,justify='left',anchor='w')
+
+		# body 
+		self.projectText.grid(row=0,column=0)
+		self.projectText.config(width=wid,wraplength=650,font=self.projectFont)
+		# foot
+		self.backTOC_project.grid(row=0,column=0,stick='nswe')
+		self.prevPage_project.grid(row=0,column=1,stick='nswe')
+		self.nextPage_project.grid(row=0,column=2,stick='nswe')
+		if self.osMode == 'windows':
+			self.backTOC_project.config(text="Return to T.O.C. (r)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_project.config(text="Previous Page (p)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_project.config(text="Next Page (n)",font=self.footFont,background=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+		elif self.osMode=='mac':
+			self.backTOC_project.config(text="Return to T.O.C. (r)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.prevPage_project.config(text="Previous Page (p)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+			self.nextPage_project.config(text="Next Page (n)",font=self.footFont,highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor,relief=self.buttonRelief)
+		else:
+			print("ERROR: BAD OS MODE DEFINED")
+		# callbacks
+		self.backTOC_project.config(command=self.backTOC_project_callback)
+		self.nextPage_project.config(command=self.nextPage_project_callback)
+		self.prevPage_project.config(command=self.prevPage_project_callback)
+
+
+	def prevPage_project_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		self.projectFrame.forget()
+		if ind==0:
+			self.tocFrame.pack(expand=True,fill=BOTH)
+			self.prepareTOC()
+		else:
+			self.loadID = self.pageID[ind-1]
+			self.loadPage_callback()
+
+	def nextPage_project_callback(self):
+		ID = self.loadID
+		ind = self.pageID.index(ID)
+		nextID = self.pageID[ind+1]
+		self.loadID = nextID
+		self.projectFrame.forget()
+		self.loadPage_callback()
+
+	def loadProject(self):
+		ID = self.loadID
+		data = self.projectData[ID]
+		self.projectFrame.pack(expand=True,fill = BOTH)
+		self.title_project.config(text = data['chapter'])
+		self.subtitle_project.config(text=data['section'])
+		self.subsection_project.config(text=data['subsection'])
+		self.projectText.config(text=self.projectData[ID]['text'])
+		self.whichFrame = 'project'
+		return
+
+	def backTOC_project_callback(self):
+		self.projectFrame.forget()
+		self.tocFrame.pack(expand=True,fill=BOTH)
+		self.prepareTOC()
+############################################################################
+############### TOC FRAME METHODS ##########################################
+	def createTOC(self):
+		## create widgets ##
+		self.tocFrame = ttk.Frame(self.root)
+		self.head_toc = ttk.Frame(self.tocFrame)
+		self.body_toc = ttk.Frame(self.tocFrame)
+		self.foot_toc = ttk.Frame(self.tocFrame)
+		if self.osMode=='windows':
+			self.logo_toc = ttk.Label(self.head_toc)
+			self.title_toc = ttk.Label(self.head_toc)
+			nrows = 17
+		elif self.osMode=='mac':
+			self.logo_toc = Label(self.head_toc)
+			self.title_toc = Label(self.head_toc)
+			nrows = 20
+		else:
+			print("ERROR: BAD OS MODE DEFINED")		
+		self.toc_lFrame = LabelFrame(self.body_toc,text="Table of Contents")
+		self.tocLEFT = ttk.Treeview(self.toc_lFrame)
+		self.tocRIGHT = ttk.Treeview(self.toc_lFrame)
+		self.loadPage = Button(self.foot_toc)
+		## setup widgets ##
+		self.tocFrame.rowconfigure(0,weight=0)
+		self.tocFrame.rowconfigure(1,weight=1)
+		self.tocFrame.rowconfigure(2,weight=0)
+		self.tocFrame.columnconfigure(0,weight=1)
+		self.head_toc.grid(row=0,column=0,stick='nswe')
+		self.body_toc.grid(row=1,column=0,stick='nswe')
+		self.foot_toc.grid(row=2,column=0,stick='nswe')
+		self.toc_lFrame.pack(expand=True,fill=BOTH)
+		self.head_toc.config(relief='ridge')
+		self.foot_toc.config(relief='ridge')
+		self.toc_lFrame.config(labelanchor='n',font=self.buttonFont,relief='solid')
+		# head #
+		self.head_toc.rowconfigure(0,weight=1)
+		self.head_toc.rowconfigure(1,weight=1)
+		self.head_toc.columnconfigure(0,weight=1)
+		self.head_toc.columnconfigure(1,weight=1)
+		self.logo_toc.config(image=self.logo,background=self.headerbgcolor)
+		self.logo_toc.grid(row=0,column=0,rowspan=2,stick='nswe')
+		self.title_toc.config(text="Python Programming\nThe Basics",foreground=self.headerfgcolor)
+		self.title_toc.grid(row=0,column=1,columnspan=1,rowspan=2,stick='nswe')
+		self.title_toc.config(font=self.titlePageFont,background=self.headerbgcolor)
+		self.title_toc.config(font=self.titlePageFont,background=self.headerbgcolor,justify='center')
+
+		# body #
+		self.tocLEFT.heading('#0',text='CHAPTERS')
+		self.tocLEFT.config(show='tree')
+		self.tocRIGHT.config(show='tree')
+		treeWid = 405
+		self.tocLEFT.column('#0',width=treeWid)
+		self.tocRIGHT.column('#0',width=treeWid)
+		self.tocLEFT.grid(row=0,column=0,stick='nswe')
+		self.tocRIGHT.grid(row=0,column=1,stick='nswe')
+
+		self.tocLEFT.config(height=nrows)
+		self.tocRIGHT.config(height=nrows)
+		# foot #
+		self.foot_toc.rowconfigure(0,weight=1)
+		self.foot_toc.columnconfigure(0,weight=1)
+		self.loadPage.grid(row=0,column=0,stick='nswe')
+		self.loadPage.config(relief=self.buttonRelief,font=self.buttonFont,background=self.buttonColour,foreground='black')
+		if self.osMode=='windows':
+			self.loadPage.config(background=self.footerbgcolor,foreground=self.footerfgcolor)
+		elif self.osMode=='mac':
+			self.loadPage.config(highlightbackground=self.footerbgcolor,foreground=self.footerfgcolor)
+		else:
+			print('ERROR: BAD OS MODE DEFINED')
+		self.tocLEFT.config(selectmode='browse')
+		self.tocRIGHT.config(selectmode='browse')
+		self.initializeTOC()
+		
+		# bind virtual events
+		self.tocLEFT.bind('<<TreeviewSelect>>',self.tocLEFT_callback)
+		self.tocRIGHT.bind('<<TreeviewSelect>>',self.tocRIGHT_callback)
+		self.tocRIGHT.bind('<<TreeviewOpen>>',self.closeTrees_callback)
+		self.loadPage.config(command=self.loadPage_callback)
+		self.tocRIGHT.bind('<Double-Button-1>',self.mouse)
+		self.tocRIGHT.bind('<Return>',self.enterPressed)
+		self.tocRIGHT.focus_set()
+
+	
+	def prepareTOC(self):
+		self.closeTrees()
+		parent = self.tocRIGHT.parent(self.loadID)	
+		self.tocRIGHT.item(parent,open = True)
+		self.tocRIGHT.selection_set(self.loadID)
+		self.whichFrame = 'toc'
+
+	def loadPage_callback(self):
+		ind = -3
+		self.tocFrame.forget()
+		self.writeLastPage(self.loadID)
+		if self.loadID[ind]=='p':
+			self.loadLesson()
+		elif self.loadID[ind]=='e':
+			self.loadExample()
+		elif self.loadID[ind]=='h':
+			self.loadPractice()
+		elif self.loadID[ind]=='m':
+			self.loadProject()
+		else:
+			print("ERROR")
+		return
+	
+	def enterPressed(self,event):
+		ID = self.tocRIGHT.selection()[0]
+		if len(ID)==9:
+			self.loadID = ID
+			self.loadPage_callback()
+
+	def mouse(self,event):
+		ID = self.tocRIGHT.selection()[0]
+		if len(ID)==9:
+			self.loadID = ID
+			self.loadPage_callback()
+
+	def initializeTOC(self):
+		# load toc left
+		for i in range(len(self.tocData[0])):
+			self.tocLEFT.insert('',str(i),'chapter'+str(i+1),text=self.tocData[0][i],tags='chfont')
+		self.tocLEFT.tag_configure('chfont',font=('Calibri',12,'normal'))
+		## build items and detach them from toc right tree ##
+		self.toc_sectionID = list()
+		for i in range(len(self.tocData[1])):
+			self.toc_sectionID.append(list())
+			self.buildSectionTree(i)
+		## setup trees for opening use ##
+		# get file that contains last page viewed
+		file = open(self.rootPath+'lastPageViewed.txt','r')
+		lines = file.readlines()
+		file.close()
+		# get indices
+		FULL_ID = lines[0]
+		cInd = FULL_ID.find('c')+1
+		sInd = FULL_ID.find('s')+1
+		c_index = int(FULL_ID[cInd:cInd+2])-1
+		s_index = int(FULL_ID[sInd:sInd+2])-1
+		self.reattach_TOC(c_index)
+		CHAP_ID = self.tocLEFT.get_children()[c_index]
+		SECT_ID = self.tocRIGHT.get_children()[s_index]
+		self.tocLEFT.selection_set(CHAP_ID)
+		self.tocRIGHT.item(SECT_ID,open=True)
+		self.tocRIGHT.selection_set(FULL_ID)
+		self.loadPage_text(FULL_ID)
+		string=self.tocLEFT.item(self.tocLEFT.selection(),'text')
+		self.tocRIGHT.heading('#0',text=string)
+		return 
+
+	def loadPage_text(self,ID):
+		cInd = ID.find('c')+1
+		sInd = ID.find('s')+1
+		if 'p' in ID:
+			lastInd = ID.find('p')+1
+			suffix = "Lesson "
+		elif 'e' in ID:
+			lastInd = ID.find('e')+1
+			suffix = "Example "
+		elif 'h' in ID:
+			lastInd = ID.find('h')+1
+			suffix = "Review "
+		elif 'm' in ID:
+			lastInd = ID.find('m')+1
+			suffix = "Project "
+		else:
+			lastInd = False
+			suffix = "Lesson "
+		if lastInd:
+			string = "LOAD: Chapter "+ID[cInd:cInd+2]+", Section "+ID[sInd:sInd+2] + ", "+suffix + ID[lastInd:]
+		else:
+			string = "LOAD: Chapter "+ID[cInd:cInd+2]+", Section "+ID[sInd:sInd+2] + ", "+suffix + '01'
+		self.loadPage.config(text=string)
+		self.loadID = ID
+
+	def reattach_TOC(self,index):
+		for i in range(len(self.toc_sectionID[index])):
+			self.tocRIGHT.move(self.toc_sectionID[index][i],'',i)
+		return
+
+
+	def tocLEFT_callback(self,event):
+		## detach current children of TOC RIGHT
+		children = self.tocRIGHT.get_children()
+		for i in range(len(children)):
+			self.tocRIGHT.detach(children[i])
+		ID = self.tocLEFT.selection()[0]
+		string=self.tocLEFT.item(ID,'text')
+		self.tocRIGHT.heading('#0',text=string)
+		index = self.tocLEFT.index(ID)
+		self.reattach_TOC(index)
+		rChildren = self.tocRIGHT.get_children()
+		if not self.firstCall:
+			self.closeTrees()
+			child = self.tocRIGHT.get_children(rChildren[0])[0]
+			self.loadID = child
+			self.prepareTOC()
+			self.loadPage_text(child)
+		else:
+			self.firstCall=False
+		return
+
+	def tocRIGHT_callback(self,event):
+		ID = self.tocRIGHT.selection()[0]
+		if len(ID)==6:
+			ID = ID+'p01'
+		self.loadPage_text(ID)
+		return
+
+	def buildSectionTree(self,index):
+		sind = 0
+		for j in range(len(self.tocData[1][index])):
+			if "Section" in self.tocData[1][index][j]:
+				sind = sind+1
+				pind = 0
+				eind = 0
+				hind = 0
+				mind = 0
+				curID = "c{:02d}s{:02d}".format(index+1,sind)
+				self.toc_sectionID[index].append(curID)
+				self.tocRIGHT.insert('',str(j),curID,text=self.tocData[1][index][j],tags='secFont')
+				self.tocRIGHT.detach(curID)
+			else:
+				if "Lesson" in self.tocData[1][index][j]:
+					pind = pind+1
+					ID = curID+'p{:02d}'.format(pind)
+				elif "Example" in self.tocData[1][index][j]:
+					eind = eind+1
+					ID = curID+'e{:02d}'.format(eind)
+				elif "Review" in self.tocData[1][index][j]:
+					hind = hind+1
+					ID = curID+'h{:02d}'.format(hind)
+				elif "Project" in self.tocData[1][index][j]:
+					mind = mind+1
+					ID = curID+'m{:02d}'.format(mind)
+				self.tocRIGHT.insert(curID,'end',ID,text=self.tocData[1][index][j],tags='pgFont')
+		self.tocRIGHT.tag_configure('secFont',font=('Calibri',12,'normal'))
+		self.tocRIGHT.tag_configure('pgFont',font=('Calibri',11,'normal'))
+		return
+
+	def closeTrees_callback(self,event):
+		self.closeTrees()
+
+	def closeTrees(self):
+		children = self.tocRIGHT.get_children()	
+		for i in range(len(children)):
+			self.tocRIGHT.item(children[i],open=False)
+		return
+############################################################################
+############### DATA LOADING METHODS #######################################
+	def loadProgramData(self):
+		self.loadTOC()
+		self.loadPageData()
+		self.loadFuncDict()
+
+	def loadPageData(self):
+		self.pageID = list()
+		self.lessonData = dict()
+		self.exampleData = dict()
+		self.practiceData = dict()
+		self.projectData = dict()
+		for i in range(len(self.tocData[1])):
+			sInd = 0
+			for j in range(len(self.tocData[1][i])):
+				doAppend = True
+				entry = self.tocData[1][i][j].strip('\n')
+				if 'Section' in entry:
+					sInd = sInd+1
+					pInd = 0
+					eInd = 0
+					hInd = 0
+					mInd = 0
+					doAppend = False
+					sectionName = entry
+				if 'Lesson' in entry:
+					char = 'p'
+					pInd = pInd+1
+					ind = pInd
+				elif 'Example' in entry:
+					char = 'e'
+					eInd = eInd+1
+					ind = eInd
+				elif 'Review' in entry:
+					char = 'h'
+					hInd = hInd+1
+					ind = hInd
+				elif 'Project' in entry:
+					char = 'm'
+					mInd = mInd+1
+					ind = mInd
+				else:
+					char = 'error'
+					ind = 0
+
+				if doAppend:
+					string = "c{:02d}s{:02d}{}{:02d}".format(i+1,sInd,char,ind)
+					self.pageID.append(string)
+					chapTitle = '  '+self.tocData[0][i]+'  '
+					secTitle = '  '+sectionName +'  '
+					pageTitle = '  '+entry+'  '
+					if char=='p':
+						self.lessonData[string] = dict()
+						self.lessonData[string]['chapter'] = chapTitle
+						self.lessonData[string]['section'] = secTitle
+						self.lessonData[string]['subsection'] = pageTitle
+
+					elif char=='e':
+						self.exampleData[string] = dict()
+						self.exampleData[string]['chapter'] = chapTitle
+						self.exampleData[string]['section'] = secTitle
+						self.exampleData[string]['subsection'] = pageTitle
+					elif char=='h':
+						self.practiceData[string] = dict()
+						self.practiceData[string]['chapter'] = chapTitle
+						self.practiceData[string]['section'] = secTitle
+						self.practiceData[string]['subsection'] = pageTitle
+					elif char=='m':
+						self.projectData[string] = dict()
+						self.projectData[string]['chapter'] = chapTitle
+						self.projectData[string]['section'] = secTitle
+						self.projectData[string]['subsection'] = pageTitle
+
+		for i in range(len(self.pageID)):
+			filename = self.pageDataPath+self.pageID[i]+'.txt'
+			fileFound = os.path.exists(filename)
+			self.loadIDdata(self.pageID[i],fileFound)
+		return
+
+	def loadIDdata(self,ID,fileFound):
+		ind = 6
+		if ID[ind]=='p':
+			self.loadLessonData(ID,fileFound)
+		elif ID[ind]=='e':
+			self.loadExampleData(ID,fileFound)
+		elif ID[ind]=='h':
+			self.loadPracticeData(ID,fileFound)
+		elif ID[ind]=='m':
+			self.loadProjectData(ID,fileFound)
+		return
+
+	def loadProjectData(self,ID,fileFound):
+		self.projectData[ID]['fileExists'] = fileFound
+		if fileFound:
+			file = open(self.pageDataPath+ID+'.txt')
+			lines = file.readlines()
+			file.close()
+			string = ''
+			for i in range(1,len(lines)):
+				string = string+lines[i]
+			self.projectData[ID]['text'] = string
+		return
+
+	def loadPracticeData(self,ID,fileFound):
+		self.practiceData[ID]['fileExists'] = fileFound
+		if fileFound:
+			file = open(self.pageDataPath+ID+'.txt')
+			lines = file.readlines()
+			file.close()
+			for i in range(len(lines)):
+				if '#KU#' in lines[i]:
+					hind = lines[i].find('h')+1
+					self.practiceData[ID]['kuHeight'] = float(lines[i][hind:].strip('\n'))
+				elif '#TI#' in lines[i]:
+					ind1 = i
+					hind = lines[i].find('h')+1
+					self.practiceData[ID]['tiHeight'] = float(lines[i][hind:].strip('\n'))
+				elif '#A#' in lines[i]:
+					ind2 = i
+					hind = lines[i].find('h')+1
+					self.practiceData[ID]['aHeight'] = float(lines[i][hind:].strip('\n'))
+					break
+			string = ''
+			for i in range(1,ind1):
+				string = string+lines[i]
+			self.practiceData[ID]['KU'] = string.strip('\n')
+			string = ''
+			for i in range(ind1+1,ind2):
+				string = string+lines[i]
+			self.practiceData[ID]['TI'] = string.strip('\n')
+			string = ''
+			for i in range(ind2+1,len(lines)):
+				string = string+lines[i]
+			self.practiceData[ID]['A'] = string.strip('\n')
+		return
+
+	def loadLessonData(self,ID,fileFound):
+		self.lessonData[ID]['fileExists'] = fileFound
+		if fileFound:
+			file = open(self.pageDataPath+ID+'.txt')
+			lines = file.readlines()
+			file.close()
+			imPath = self.imagePath+lines[1].strip('\n')
+			im = PhotoImage(file=imPath)
+			self.lessonData[ID]['img'] = im
+			self.lessonData[ID]['bigIdea'] = lines[3]
+			string = ''
+			for i in range(5,len(lines)):
+				string = string+lines[i]
+			self.lessonData[ID]['explanation'] = string
+		#print(self.lessonData[ID])
+		return
+
+	def loadExampleData(self,ID,fileFound):
+		self.exampleData[ID]['fileExists'] = fileFound
+		if fileFound:
+			file = open(self.pageDataPath+ID+'.txt')
+			lines = file.readlines()
+			file.close()
+			indlist = list()
+			for i in range(len(lines)):
+				if '#n#' in lines[i]:
+					indlist.append(i)
+			for i in range(len(indlist)-1):
+				line = lines[indlist[i]]
+				ind = int(line[3:].strip('\n'))
+				note = ''
+				for j in range(indlist[i]+1,indlist[i+1]):
+					note = note+lines[j]
+				self.exampleData[ID][ind] = note.strip('\n')
+		return
+
+	def loadTOC(self):
+		# get raw data and strip away newlines from list
+		file = open(self.rootPath+'tocData.txt','r')
+		lines = file.readlines()
+		file.close()
+		while '\n' in lines:
+			lines.remove('\n')
+
+		# find tags in file and store their indices in inds
+		inds = list()
+		for i in range(len(lines)):
+			if lines[i][0:2]=="#c":
+				inds.append(i)
+
+		# build tocData field and strip newlines from strings
+		self.tocData = list()
+		self.tocData.append(list())
+		self.tocData.append(list())
+		for i in range(1,inds[0]):
+			self.tocData[0].append(lines[i].strip('\n'))
+		for i in range(len(inds)-1):
+			self.tocData[1].append(list())
+			for j in range(inds[i]+1,inds[i+1]):
+				self.tocData[1][i].append(lines[j].strip('\	n'))	
+		self.tocData[1].append(list())
+		for j in range(inds[-1]+1,len(lines)):	
+			self.tocData[1][-1].append(lines[j].strip('\n'))
+		return
+
+	def writeLastPage(self,ID):
+		file = open(self.rootPath+'lastPageViewed.txt','w')
+		file.write(ID)
+		file.close()
+
+	def loadFuncDict(self):
+		self.funcDict = dict()
+		#chapter1, section3
+		self.funcDict['c01s03e01']=self.c01s03e01		
+		self.funcDict['c01s03e02']=self.c01s03e02
+		self.funcDict['c01s03e03']=self.c01s03e03
+		#chapter2, section1		
+		self.funcDict['c02s01e01']=self.c02s01e01
+		self.funcDict['c02s01e02']=self.c02s01e02
+		self.funcDict['c02s01e03']=self.c02s01e03
+		self.funcDict['c02s01e04']=self.c02s01e04
+		#chapter2, section3		
+		self.funcDict['c02s03e01']=self.c02s03e01
+		self.funcDict['c02s03e02']=self.c02s03e02
+		self.funcDict['c02s03e03']=self.c02s03e03
+		self.funcDict['c02s03e04']=self.c02s03e04
+		#chapter3, section1
+		self.funcDict['c03s01e01']=self.c03s01e01
+		#chapter3, section2
+		self.funcDict['c03s02e01']=self.c03s02e01
+		#chapter4, section1
+		self.funcDict['c04s01e01']=self.c04s01e01
+		self.funcDict['c04s01e02']=self.c04s01e02
+		self.funcDict['c04s01e03']=self.c04s01e03		
+		# chapter4, section2
+		self.funcDict['c04s02e01']=self.c04s02e01
+		self.funcDict['c04s02e02']=self.c04s02e02
+		self.funcDict['c04s02e03']=self.c04s02e03	
+		# chapter3, section1
+		self.funcDict['c05s01e01']=self.c05s01e01
+		self.funcDict['c05s01e02']=self.c05s01e02
+		self.funcDict['c05s01e03']=self.c05s01e03	
+############################################################################
+############### EXAMPLE FUNCTIONS  #########################################
+	def c01s03e01(self):
+		x = 4
+		addressX = id(x)
+		y = 'hello'
+		addressY = id(y)
+		z = True
+		addressZ = id(z)
+		x = 5
+		addressX = id(x)
+		y = 'hello there'
+		addressY = id(y)
+		z = False
+		addressZ = id(z)
+		return
+
+	def c01s03e02(self):
+		x = 4
+		addressX = id(x)
+		y = x
+		addressY = id(y)
+		x = 6
+		addressX = id(x)
+		return
+
+	def c01s03e03(self):
+		x = 'hello there'
+		y = "say it ain't so"
+		z = "you're quite welcome"
+		print(z)
+		return
+
+	def c02s01e01(self):
+		n1 = 10
+		n2 = 10.0
+		typeN1 = type(n1) 
+		typeN2 = type(n2)
+		s1 = str(n1)
+		s2 = str(n2)
+		typeS1 = type(s1)
+		typeS2 = type(s2)
+		print('n1 has value '+s1)
+		print('n2 has value '+s2)
+		return
+
+	def c02s01e02(self):
+		s1 = '10'
+		s2 = '10.0'
+		typeS1 = type(s1)
+		typeS2 = type(s2)
+		n1a = int(s1)
+		n1b = float(s1)
+		n2 = float(s2)
+		typeN1A = type(n1a)
+		typeN1B = type(n1b)
+		typeN2 = type(n2)
+		return
+
+	def c02s01e03(self):
+		s1 = 'hello world'
+		s2 = '   spaces are characters too    '
+		L1 = len(s1)
+		L2 = len(s2)
+		return
+
+	def c02s01e04(self):
+		n1 = -10
+		n2 = 10
+		n3 = 3.56
+		n4 = -3.56
+		absN1 = abs(n1)
+		absN2 = abs(n2)
+		absN3 = abs(n3)
+		absN4 = abs(n4)
+		return
+
+	def c02s03e01(self):
+		def foo(num1,num2):
+			result = num1*num2
+			return result
+		answer1 = foo(2,3)
+		answer2 = foo(3,4)
+		n1 = 8
+		n2 = 6
+		answer3 = foo(n1,n2)
+		return
+
+	def c02s03e02(self):
+		def foo():
+			print("  |   |   |  ")
+			print("  |   o   |  ")
+			print("  |  \\|/  |  ")
+			print("  |   |   |  ")
+			print("  |  / \\  |  ")
+			return
+		foo()
+		print("~~~~~~~~~~~~~")
+		foo()
+		return
+
+	def c02s03e03(self):
+		def foo(wid,char):
+			print(("  "+char+"   |   "+char+"  ")*wid)
+			print(("  "+char+"   o   "+char+"  ")*wid)
+			print(("  "+char+"  \\|/  "+char+"  ")*wid)
+			print(("  "+char+"   |   "+char+"  ")*wid)
+			print(("  "+char+"  / \\  "+char+"  ")*wid)
+			return
+		foo(3,'#')
+		print("~~~~~~~~~~~~~"*4)
+		foo(4,':')
+		return
+
+	def c02s03e04(self):
+		def foo():
+			print("  |   |   |  ")
+			print("  |   o   |  ")
+			print("  |  \\|/  |  ")
+			print("  |   |   |  ")
+			print("  |  / \\  |  ")
+			return "A HANGMAN WAS PRINTED TO SCREEN"
+		exitValue = foo()
+		print("~~~~~~~~~~~~~")
+		print(exitValue)
+		return
+
+	def c03s01e01(self):
+		len('hi')*5+1
+		x = len('hi')*5+1
+		print(len('hi')*5+1)
+		val1 = int(4)/int(2)
+		val2 = int(4/2)
+		val3 = int('2')*5
+		val4 = int('2'*5)
+		quotient = 13//3
+		remainder = 13%3
+		randomVal = (2*3)**2-12/2+12%5+12//5
+		return
+
+	def c03s02e01(self):
+		name = 'Albert Einstein'
+		pt1 = name[5]+name[3]+name[-1]+name[6]
+		pt2 = name[7]+name[1]+name[-2]+name[-4]+name[-3]
+		pt3 = name[2]+name[4]+name[0]+name[8:11]
+		firstName = name[:6]
+		lastName = name[6:]
+		print("Anagram of "+firstName+lastName+" is: ")
+		print(pt1+pt2+name[6]+pt3)
+		return
+
+	def c04s01e01(self):
+		x = 2
+		y = 3
+		if x > y:
+			print('------------------')
+			print("x is larger than y")
+			print('------------------')
+		print("Random Message #1")
+		if x < y:
+			print('------------------')
+			print("x is less than y")
+			print('------------------')
+		print("Random Message #2")
+		return
+
+	def c04s01e02(self):
+		x = 2
+		y = 3
+		if x == y:
+			print("x is equal to y")
+		else:
+			print("x is not equal to y")
+		print("Done first test!")
+		if x != y:
+			print("x is not equal to y .. again")
+		else:
+			print("x is equal to y")
+		print("Done second test!")
+		return
+
+	def c04s01e03(self):
+		x = 3
+		y = 3
+		if x > y:
+			print("x is larger than y")
+			print("random message #1")
+		elif x==y:
+			print("x is equal to y")
+			print("random message #2")
+		else:
+			print("x is less than y")
+			print("random message #3")
+		print("random message #4")
+		return
+
+	def c04s02e01(self):
+		N = 10
+		i = N
+		while i>0:
+			print(str(i)+"..")
+			i=i-1
+		print("Blast Off!")
+		return
+
+	def c04s02e02(self):
+		N = 10
+		for i in range(N):
+			print(str(i+1)+"..")
+		print("Counted to "+str(N)+"!")
+		return
+
+	def c04s02e03(self):
+		print("-"*10)
+		for i in range(2,20,2):
+			if i%8==0:
+				print(str(i)+" is a multiple of 8")
+			else:
+				print(str(i)+" is not a multiple of 8")
+		print("-"*10)
+		return
+
+	def c05s01e01(self):
+		string1 = "This string has i's in it"
+		print(string1)
+		index = 2
+		while index!=-1:
+			index=string1.find('i')
+			if index!=-1:
+				string1 = string1[:index]+string1[index+1:]
+		print(string1)
+		return
+
+	def c05s01e02(self):
+		string1 = "This string has i's in it"
+		print(string1)
+		index = 2
+		while index!=-1:
+			index=string1.find('i')
+			if index!=-1:
+				string1 = string1[:index]+string1[index+1:]
+		print(string1)
+		return
+
+	def c05s01e03(self):
+		string1 = "This string has i's in it"
+		print(string1)
+		index = 2
+		while index!=-1:
+			index=string1.find('i')
+			if index!=-1:
+				string1 = string1[:index]+string1[index+1:]
+		print(string1)
+		return
+############################################################################
+############################# MAIN PROGRAM #################################
+root = Tk()
+GUI = basicLearning(root)
+root.mainloop()
+############################################################################
+############################################################################

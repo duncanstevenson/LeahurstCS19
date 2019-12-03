@@ -1,0 +1,8 @@
+#imgPath#
+c3s1p4.png
+#bigIdea#
+Python follows strict rules of operator precedence. 
+#explanation#
+The order of precedence of operators defines the order in which we should do operations inside of an expression. For example, BEDMAS is a system defining the order of precendece for the operations involving brackets, exponents, multiplication, division, addition and subtraction. For expressions involving only these operations, you already know the order of precedence! However, in Python, there are other operators not described by BEDMAS. How do we know the order for other operators then? Simple, you google 'order of precendence operators python' and you will find many resources to help you out.
+
+In the example shown, brackets have the highest precendence, then function calls, then multiplication, then addition. The steps shown in the example illustrate how to determine the return value of an expression in a step-wise fashion.

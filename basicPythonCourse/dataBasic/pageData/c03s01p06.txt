@@ -1,0 +1,6 @@
+#imgPath#
+c3s1p6.png
+#bigIdea#
+An expression that is not part of a statement does a useless computation.
+#explanation#
+What happens if you code an expression without connecting it somehow to a statement? A simple exercise will answer this question. In the example shown, three expressions were coded into IDLE. IDLE prints the return value of the expression to the screen. So, did anything happen? The obvious answer is YES. IDLE computed the return values of the expressions and printed them to screen. However, this is a quirk of IDLE. If you were to code the same expressions into a file and then run the program in CMD or TERMINAL, NOTHING would happen (try it!). All that happens behind the scenes is that the CPU computes a value and then sends it nowhere. So, from all practicle perspectives, the expression did nothing. It would be like saying 5+5=10 alone in the woods where nobody could hear or see you. Did you actually make a sound?

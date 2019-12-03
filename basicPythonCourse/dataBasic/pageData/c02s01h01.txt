@@ -1,0 +1,13 @@
+#KU#h3
+[K1] Explain, in your own words, what the purpose of a function is.
+[K2] What is the difference between an argument, a function name, and a return value?
+[K3] What is a side-effect and what is an example of one?
+[K4] Name eight built-in functions that come with Python by default. Five are given in the table in Lesson: Built-in functions in Python, and three you have seen but might need to think a bit to remember them! 
+#TI#h6
+[T1] In Example: Using the str function, you saw that concatenating 'n1 has value ' with s1 resulted in a fancy message on the screen. What happens if you try to concatenate the string with n1 instead? (Try this in IDLE and see what happens). Explain what you see.
+[T2] Is it possible to convert the string '14.6' into and integer with the int() function? Test with IDLE.
+[T3] What happens in IDLE if you pass the integer 156 to the function float()? 
+[T4] What happens in IDLE if you pass the floating point number 14.8 to the function int()? 
+[T5] Can integers or floating point numbers be passed as arguments to len() without generating error messages? Can strings be passed as arguments to the function abs()?  Check with IDLE.
+#A#h1.5
+[A1] Write a mini-program in sublime text that does the following. First, make the statement rString = '14.5'. Next, convert rString to float and store this result in variable R. Next, store the computation 2*3.14*R into a variable called circumference. Next, convert circumference to a string and store the result in circString. Finally, print a tidy message to the screen indicating what the numerical values of R and circumference are using a SINGLE PRINT STATEMENT.

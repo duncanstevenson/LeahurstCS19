@@ -1,0 +1,21 @@
+#n#2
+Line 01 was just executed. Notice nothing appears in the symbol table and nothing has been printed to screen. An expression that is not part of a statement doesn't affect the computer in any practical way. The computation of line 01 DID occur, however, nothing about it was recorded or preserved. It was essentially a useless computation.
+#n#3
+Line 02 was just executed. Here the programmer assigned the same expression found on line 01 to the variable x. Now we see the return value of that expression appear in our symbol table. Nothing has been printed to screen, however, since assignment statements simply store values in RAM.
+#n#4
+Line 03 was just executed. Here the programmer printed the expression of line 01 to the screen, and we see the same value appear on the SCREEN OUTPUT that we see stored in the variable x, as expected.
+#n#5
+Here is a good example of why it's important to understand the order of precedence in expressions. Functions have higher precedence than everything except for brackets. Thus, the numbers 4 and 2 appearing on line 04 were converted to int BEFORE the division occured. Since integer 4 divided by integer 2 returns a float, we see 2.0 appear in the symbol table.
+#n#6
+To contrast line 04, the programmer put the division INSIDE the brackets of the int function on line 05. Since brackets have higher precedence than function calls, the division occured first on line 05. Since 4/2 returns 2.0, and this will be the value fed to int(), the final return value was integer 2.
+#n#7
+Here is another example of why precedence matters. Since functions have higher precedence than multiplication, the string '2' in line 06 was converted into an integer first, and then the converted integer 2 was multiplied by 5, yielding the final return value of integer 10.
+#n#8
+To contrast line 06, the programmer applied the int function to the expression '2'*5 on line 07. This expression is inside the brackets, and thus happens first. '2'*5 returns 22222, and when this value was converted to int, it remained the same, and this is why we see 22222 in the symbol table.
+#n#9
+Line 08 was just executed. We know from math class that 13/3 is 4 and 1/3. Thus, we understand that the quotient operator // simply calculates the integer quotient of long-division; ie., it calculates how many times the left operand can be divided by the right operand without allowing for fractions.
+#n#10
+Line 09 was just executed. The remainder operator was used between the values 13 and 3. From the previous note, we observed that 13/3 is 4 and 1/3. Notice that the remainder of 13%3 returned the value 1. Using an analogy of pies, if the 13//3=4 is the number of full pies that fit into the number 13, 13%3=1 is the number of slices left over after the full pies are taken away.
+#n#11
+Line 10 was just executed. See if you can determine the order of precedence of the operators used in line 10 based on the value now stored in the variable randomVal.
+#n#

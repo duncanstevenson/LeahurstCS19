@@ -1,0 +1,3 @@
+#n#1
+No notes will be given in this section. See if you can understand what's going on simply by clicking through. Carefully observe what happens in the symbol table and what gets printed to screen! Also, notice any jumps that occur.
+#n#

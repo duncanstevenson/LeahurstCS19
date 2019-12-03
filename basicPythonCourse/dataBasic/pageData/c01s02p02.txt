@@ -1,0 +1,8 @@
+#imgPath#
+c1s2p2.png
+#bigIdea#
+Programming languages are formal languages that have been designed to express computation.
+#explanation#
+Computers perform computations. A computation is a single step that a computer takes when performing a task. Tasks typically involve many computations.
+
+Computer computations are expressed in programming languages. A programming language is a formal language. Formal languages differ from natural languages such as English, French, Chinese, etc. A natural language evolves over time to facilitate flexible human communication in society, whereas a formal language is developed for a specific application and has very strict rules of use. For example 2+2=4 is a formal mathematical statement that can only be interpreted in one way.

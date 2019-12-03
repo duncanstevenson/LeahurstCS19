@@ -1,0 +1,11 @@
+#KU#h5
+[K1] What is the operation involving the + operator called when the operands are strings?
+[K2] Does operator precedence depend on operand class? Explain, using an example.
+[K3] What does a slice operation accomplish? 
+[K4] List five different ways you have learned how to slice a string. Explain the syntax of each of the five, using an example.
+#TI#h7
+[T1] In IDLE, store your name in a variable called name. Use a series of slice operations and concatenation to make a new word out of SOME of the letters (not necessarily all of them).
+[T2] Go back and re-read the lesson "Combining Slicing with Concatenation". Why do you think Python chooses to ignore the second index in a slice operation? Eg. why doesn't x[1:5] slice out character at index 5? Explain your reasoning using a concrete example.
+[T3] Go into your foo folder and correct the syntax errors in the program 'brokenSlices.py'. Make sure this program works and generates a nickname!
+#A#h3
+[A1] Write a program that prompts a user to enter their name and store their input in a variable called name. Use a combination of slice and concatenation operations to print the pig latin translation of the users name to the screen. Make sure your program works for ANY input the user may choose (ie. make your program flexible). If you finish and have time to spare, ask the user for a few inputs instead of just one and make a pig latin phrase!

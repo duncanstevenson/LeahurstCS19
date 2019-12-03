@@ -1,0 +1,10 @@
+#imgPath#
+c3s3p4.png
+#bigIdea#
+The and operator returns True when both of the operands are True.
+#explanation#
+The third boolean operator we will study is called the and operator. The and operator operates on two operands (ie. it has a left operand and a right operand). It returns True so long as BOTH of the operators are True.
+
+See the truth table for clarification. All permutations of the left operand x and the right operand y are listed. When x is True and y is True, x and y is also True. This is the only way to generate a True value with the and operator. All other permutations are False.
+
+Can you guess why this operator is called AND? Try and come up with a simple phrase to explain the or operator's function referencing its name somehow.
