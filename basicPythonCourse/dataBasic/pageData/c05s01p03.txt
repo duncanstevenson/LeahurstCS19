@@ -3,6 +3,7 @@ c5s1p3.png
 #bigIdea#
 A method is a function that is specific to an object. A Field a value can be accessed by dot-notation.
 #explanation#
-Method is called by its name, but it is associated to an object( dependent). method has a different way you call in a function. while you define a function, like in line 1, you need a "def" + function name +parameter(s). While defining a method, python uses a dot-notation like mentioned in lesson 2, shown as line 6 and 10, applied fields "append" and "upper".
-Python has some list methods that will make programmer coding with ease. For example: if you want to add something to a list, you can use "List.append()". or inserting element to the list using "list.insert()".
+Method is called by its name, but it is associated to an object( dependent). method has a different way you call in a function. while you define a function, like in line 1, you need a "def" + function name +parameter(s). While defining a method, python uses a dot-notation like mentioned in section 2, shown as line 5 , applied fields "upper" to capitalize the word.
+
+
 according to programm shown on image, it's clear that methods and field can be both accessed while method is a funtion to an object and field is a value of it.
