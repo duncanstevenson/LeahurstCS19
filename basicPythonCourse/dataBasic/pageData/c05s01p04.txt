@@ -1,8 +1,7 @@
 #imgPath#
 c4s2p5.png
 #bigIdea#
-A for-loop obeys strict syntax rules.
+Booleans and Intergers are Objects too.
 #explanation#
-A for loop has a very similar syntax to a while-loop. Instead of while-statement, there is a for-statement (using the keyword 'for'). There is a colon (as usual) at the end of the for-statement. The code-block is indented using consistent indentation. However, there is NO CONDITION in a for-loop. Instead, a for-loop works by predefining a set of values to loop over. 
-
-On the left, on line 2, the for-statement defines a variable i that should take on values in the range 0-9 (each time incrementing by 1). When the range() function is used with a single argument, it is assumed that the range will start at 0 and end at a value one less than the argument value. If two arguments are used instead (see line 9), variable i will take on values starting at 4 and ending at 11. Can you figure out why i takes on values 5,8,11,14 when the for-statement on line 16 is used?
+Booleans and intergers are objects, just like the "car" object you saw in previous lessons, But Intergers and Booleans are a bit special. They are special because they have only one field (the value you assign it) and no methods you can use to change them. They are technically still objects though, as they have a value and point to an address in ram, but they are different from most objects because they only carry one piece of information and nothing else. 
+Intergers and Booleans can be manipulated using operators, just like other objects, but have no other functionality. Most of the time we don't need to think about Booleans and Intergers as objects, but it may be usefull for understanding why you can create a variable as an interger, then change it to a string later in the program.

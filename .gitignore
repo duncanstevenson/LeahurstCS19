@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 basicPythonCourse/.DS_Store
 basicPythonCourse/dataBasic/.DS_Store
+.DS_Store
