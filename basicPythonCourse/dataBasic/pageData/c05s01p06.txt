@@ -1,8 +1,6 @@
 #imgPath#
 c4s2p5.png
 #bigIdea#
-A for-loop obeys strict syntax rules.
+The find() method lets you find charachters or smaller strings inside of larger ones.
 #explanation#
-A for loop has a very similar syntax to a while-loop. Instead of while-statement, there is a for-statement (using the keyword 'for'). There is a colon (as usual) at the end of the for-statement. The code-block is indented using consistent indentation. However, there is NO CONDITION in a for-loop. Instead, a for-loop works by predefining a set of values to loop over. 
-
-On the left, on line 2, the for-statement defines a variable i that should take on values in the range 0-9 (each time incrementing by 1). When the range() function is used with a single argument, it is assumed that the range will start at 0 and end at a value one less than the argument value. If two arguments are used instead (see line 9), variable i will take on values starting at 4 and ending at 11. Can you figure out why i takes on values 5,8,11,14 when the for-statement on line 16 is used?
+The find method is very usefull if you need to analyse the contents of a string. Sometimes you will want to check if someone uses a letter "I" in some text or a response, or maybe you want to be able to allow people to tell you more than they need in an input, with the program still understanding they said "Yes". Or you want to replace every "Yes" in some text with the word "No". To do this you need to know were in the text those smaller strings appear. This is what the find method is for. To use the find method, you have to provide it the string that you are looking for in the larger string as an argument. Remember that the method only returns the index of the first occurence of the smaller string, not all of the times it shows up. If the string does not show up, it will return -1. 
